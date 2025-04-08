@@ -1,0 +1,2105 @@
+36675 **Regels met betrekking tot het tegemoetkomen van burgers ten
+aanzien van wie door de Belastingdienst en de Dienst Toeslagen ten
+onrechte geen medewerking aan een buitengerechtelijke schuldregeling is
+gegeven (Wet onverplichte tegemoetkoming onterechte afwijzing
+schuldregeling)**
+
+**Nota naar aanleiding van het verslag**
+
+**Inhoudsopgave**
+
+1\. Inleiding 2
+
+2\. MSNP-verzoek onterecht afgewezen 8
+
+2.1. Regulier MSNP-traject 8
+
+2.2. Onterechte afwijzing door de Belastingdienst 8
+
+2.3. Tegemoetkoming is wenselijk en gepast 11
+
+2.4. Uitgangspunten van het voorgestelde tegemoetkomingsbeleid 11
+
+2.5. Wanneer géén tegemoetkoming 13
+
+2.6. Herstel op grond van de Wet hersteloperatie toeslagen 14
+
+3\. Het voorgestelde tegemoetkomingsbeleid 16
+
+3.1. Vormen van tegemoetkoming 21
+
+3.2. Categorieën burgers bij het voorgestelde tegemoetkomingsbeleid 28
+
+3.3. Voorbeeld van tegemoetkoming in cauïstiek 29
+
+3.4. Doorwerking voorgesteld tegemoetkomingsbeleid 31
+
+4\. Uitvoering en budgettaire gevolgen 32
+
+5\. Doenvermogen 36
+
+6\. Advies en consultatie 38
+
+# Inleiding
+
+Het kabinet heeft met interesse kennisgenomen van de vragen en
+opmerkingen van de leden van de fracties van PVV, VVD, NSC, CDA, SGP en
+ChristenUnie. Hierna wordt bij de beantwoording van de vragen zoveel
+mogelijk de volgorde van het verslag aangehouden, met dien verstande dat
+gelijkluidende of in elkaars verlengde liggende antwoorden tezamen zijn
+beantwoord.
+
+De leden van de fractie van de PVV vragen waarom het zo lang heeft
+geduurd voordat het tegemoetkomingsbeleid tot stand is gekomen.
+
+> Kort na de constatering dat verzoeken om mee te werken aan een
+> minnelijke schuldsanering natuurlijke personen (MSNP) door de
+> Belastingdienst mogelijk onterecht zijn afgewezen, zijn de eerste
+> contouren van het tegemoetkomingsbeleid kenbaar gemaakt. Uw Kamer is
+> vervolgens frequent geïnformeerd over het voorgenomen
+> tegemoetkomingsbeleid en de resultaten van het onderzoek naar
+> MSNP-verzoeken die mogelijk onterecht zijn afgewezen, bijvoorbeeld in
+> februari 2024. Destijds is uw Kamer onder meer geïnformeerd over het
+> aanbod van de Vereniging van Nederlandse Gemeenten (VNG) om
+> voorafgaand aan de inwerkingtreding van de wet te starten met
+> schuldhulpverlening.
+>
+> Het onderzoek naar onterechte MSNP-afwijzingen is erg complex en
+> arbeidsintensief en vergt daarom veel tijd. Het opgestelde
+> tegemoetkomingsbeleid is opgetekend in het onderhavige wetsvoorstel.
+> Het wetsvoorstel is in de zomer van 2024 -- destijds als onderdeel van
+> het Belastingplan 2025 − ter advisering voorgelegd aan de Afdeling
+> advisering van de Raad van State (de Afdeling). In september 2024 is
+> het advies ontvangen. De Afdeling heeft in haar advies aangegeven een
+> aantal bezwaren bij het voorstel te hebben en adviseerde het
+> voorstel niet bij de Tweede Kamer der Staten-Generaal in te
+> dienen, tenzij het is aangepast (dictum C). Het kabinet neemt deze
+> beoordeling van een hoog College van Staat zeer serieus en heeft
+> gezien het advies dan ook besloten om het wetsvoorstel uit het pakket
+> Belastingplan 2025 te halen en voldoende tijd te nemen om het advies
+> te verwerken en eventuele aanpassingen te bespreken met zowel interne
+> als externe betrokken partijen. Hierdoor was inwerkingtreding per 1
+> januari 2025 niet langer mogelijk.
+
+De leden van de fracties van de PVV en SGP vragen of een
+hardheidsclausule of een andere mogelijkheid soelaas biedt om burgers,
+die in de jaren 2012 en 2013 een onterechte afwijzing hebben ontvangen,
+mee te nemen in het tegemoetkomingsbeleid.
+
+De Belastingdienst beschikt in principe niet meer over de volledige
+dossiers uit de jaren 2012 en 2013 vanwege het verstrijken van de
+wettelijke bewaartermijn en de (inmiddels digitale) inrichting van het
+systeem van het Landelijk Incasso Centrum. Hierdoor kan de
+Belastingdienst niet vaststellen of burgers in 2012 en 2013 een
+onterechte afwijzing hebben ontvangen en daardoor dus ook niet
+ambtshalve tegemoetkomen aan burgers die in 2012 of 2013 een onterechte
+afwijzing van de Belastingdienst hebben ontvangen. Door het ontbreken
+van deze (volledige) dossiers is het ook niet mogelijk om inzichtelijk
+te maken wat de tegemoetkomings- en uitvoeringskosten zijn van het
+tegemoetkomen van burgers die in 2012 of 2013 mogelijk een onterechte
+afwijzing hebben ontvangen. Een andere mogelijkheid die is genoemd is
+dat burgers zichzelf kunnen melden bij de Belastingdienst. Bij die
+mogelijkheid zal de bewijslast bij de burger worden gelegd. De kans
+wordt laag ingeschat dat de burger beschikt over de juiste documentatie,
+omdat de afwijzingsbrief naar de schuldhulpverlener is gestuurd.
+Hierdoor zal deze mogelijkheid niet alleen veel extra uitvoeringlasten
+voor de Belastingdienst met zich brengen, maar ook extra frustratie bij
+de burgers.
+
+> Een hardheidsclausule zal voor burgers die in 2012 of 2013 een
+> onterechte afwijzing van de Belastingdienst hebben ontvangen geen
+> soelaas bieden. Een hardheidsclausule biedt de mogelijkheid om op
+> verzoek van een burger af te wijken van (dwingende) wetgeving als
+> toepassing van die wetgeving tot een onvoorzien en onredelijk
+> benadelend gevolg zou leiden voor deze burger. In dit geval gaat het
+> niet om onvoorziene gevallen, maar om voorzienbare gevallen. Bij het
+> onderhavige wetsvoorstel is er bewust voor gekozen om burgers die in
+> 2012 of 2013 mogelijk een onterechte afwijzing van de Belastingdienst
+> hebben ontvangen geen onderdeel te laten uitmaken van het
+> tegemoetkomingsbeleid, omdat dit onuitvoerbaar wordt geacht.[^1]
+
+In dit kader is relevant om op te merken dat onterechte afwijzingen van
+de Belastingdienst in 2012 en 2013 alleen plaats hebben kunnen vinden op
+basis van een registratie in de Fraude Signalering Voorziening (FSV),
+fraude-indicatie of een kwalificatie opzet of grove schuld (hierna:
+O/GS-kwalificatie). Afwijzingen vanwege een belastingschuld of
+toeslagschuld boven een door de Belastingdienst gehanteerd normbedrag
+vonden pas plaats vanaf 2015. Met de huidige inzichten van het nog niet
+afgeronde onderzoek naar burgers die onterecht zijn afgewezen in de
+periode 2015 tot april 2021, blijkt dat ongeveer 90% van de afwijzingen
+plaatsvond vanwege een belastingschuld of toeslagschuld boven een door
+de Belastingdienst gehanteerd normbedrag. Daarnaast hebben burgers die
+menen dat hun MSNP-verzoek onterecht door de Belastingdienst is
+afgewezen door een registratie in de FSV, reeds een mogelijkheid gehad
+om zichzelf te melden via het FSV-meldpunt. De groep burgers die
+mogelijk in 2012 of 2013 een onterechte afwijzing van de Belastingdienst
+hebben ontvangen en zich nog niet hebben gemeld, is hierdoor naar
+verwachting erg klein. Het zou enkel kunnen gaan om burgers die menen
+onterecht te zijn afgewezen op basis van een fraude-indicatie of
+O/GS-kwalificatie.
+
+De leden van de fractie van de VVD vragen welke ruimte er nog is om
+aanpassingen of verbeteringen aan te brengen aan het onderhavige
+wetsvoorstel.
+
+De Tweede Kamer heeft de mogelijkheid heeft om voorstellen tot
+aanpassing van het wetsvoorstel te doen. Na het advies van de Afdeling
+heeft het kabinet onderzocht of, en zo ja, op welke manier het
+tegemoetkomingsbeleid moet worden aangepast. Het kabinet heeft
+vervolgens de afweging gemaakt om bepaalde onderdelen van het
+tegemoetkomingsbeleid ongemoeid te laten onder meer vanwege het
+vertrouwen dat bij burgers kan zijn gewekt door de eerdere communicatie
+over het tegemoetkomingsbeleid. Met het wetsvoorstel wordt volgens het
+kabinet het gewenste doel bereikt: burgers tegemoetkomen voor de door de
+Belastingdienst gemaakte fout. Daarnaast kunnen door het voorgestelde
+tegemoetkomingsbeleid burgers alsnog in de situatie worden gebracht waar
+zij zich in zouden hebben bevonden als de Belastingdienst het initiële
+MSNP-verzoek niet onterecht had afgewezen en zij hierdoor zouden zijn
+toegelaten tot een MSNP: het realiseren van een schuldenvrije start. De
+wens een schuldenvrije start te realiseren voor deze burgers wordt ook
+benadrukt door de burgers met wie is gesproken en betrokken partijen
+zoals de VNG.
+
+Voorts vragen deze leden hoeveel procent van de burgers die onterecht is
+afgewezen vanwege een belasting- of toeslagenschuld boven een bepaald
+normbedrag ten tijde van deze afwijzing ondernemer was.
+
+Het precieze aantal actieve ondernemers met een onterechte afwijzing is
+niet bekend, maar het zal naar schatting gaan over een zeer kleine
+groep. Tot en met 31 december 2020 was het beleid dat de Belastingdienst
+niet meewerkte aan een MSNP-verzoek dat werd gedaan namens ondernemers.
+Een afwijzing van de Belastingdienst was in dat geval conform (destijds)
+staand beleid. Aangezien het onderzoek betrekking heeft op afwijzingen
+in de periode 1 januari 2014 tot 1 april 2021, zal het grootste deel van
+de afwijzingen die hebben plaatsgevonden enkel op onterechte
+afwijsgronden geen betrekking hebben gehad op destijds actieve
+ondernemers. Alleen in de periode van 1 januari 2021 tot 1 april 2021
+zouden actieve ondernemers een afwijzing op onjuiste gronden kunnen
+hebben ontvangen. Gegeven dat in deze maanden ongeveer 100 afwijzingen
+op onjuiste gronden hebben plaatsgevonden, zal de groep ondernemers
+beperkt zijn.
+
+De leden van de fracties van NSC, de ChristenUnie en het CDA vragen of
+het in het wetsvoorstel opgenomen forfaitaire bedrag toereikend is
+gezien de gevolgen voor de burger van wie een MSNP-onterecht is
+afgewezen, zeker bij een burger in categorie I die lange tijd in
+onzekerheid heeft kunnen zitten en in de dwanginvordering terecht kan
+zijn gekomen en zelf al een oplossing voor de schuldenproblematiek heeft
+gevonden.
+
+Burgers in categorie I hebben door de onterechte afwijzing van de
+Belastingdienst niet gelijk een oplossing voor hun problematische
+schulden kunnen realiseren en langer in onzekerheid kunnen verkeren.
+Gemiddeld zijn zij negen maanden na de onterechte afwijzing alsnog
+toegelaten tot een MSNP of WSNP. In de periode tussen de onterechte
+afwijzing en toelating tot een MSNP of WSNP kunnen burgers ook
+geconfronteerd zijn met dwanginvordering. Deze burgers zijn later alsnog
+toegelaten tot een MSNP of WSNP en hebben zij daarmee een schuldenvrije
+start kunnen realiseren. Gezien het voorgaande ziet het kabinet geen
+aanleiding voor een aanvullende tegemoetkoming voor burgers in categorie
+I.
+
+In navolging van het advies van de Afdeling is uiteindelijk gekozen voor
+een vast forfaitair bedrag voor iedere burger die een onterechte
+afwijzing van de Belastingdienst heeft ontvangen, omdat het gaat om de
+erkenning van het leed dat deze burger is aangedaan. Het is in die
+context niet consistent om te kiezen voor een tegemoetkoming die
+gekoppeld is aan een bepaalde periode en waarbij de hoogte van de
+tegemoetkoming nadrukkelijk kijkt naar de (financiële) gevolgen voor de
+burger. Temeer omdat in principe sprake is van een gelijke ervaring voor
+alle betrokkenen: een MSNP-verzoek is onterecht afgewezen en daarmee een
+MSNP-traject door de Belastingdienst onnodig gefrustreerd.
+
+De vergoeding voor burgers van wie bijzondere of strafrechtelijke
+gegevens zijn geregistreerd in FSV is € 375. Voor de hoogte daarvan is
+aansluiting gezocht bij de bedragen voor vergoeding van immateriële
+schade in de jurisprudentie. De meest voorkomende bedragen in de
+jurisprudentie bevinden zich in de bandbreedte tussen € 250 en € 500. De
+situatie van een burger van wie een MSNP-verzoek onterecht is afgewezen,
+is niet zonder meer te vergelijken met de situatie van een burger die in
+aanmerking komt voor de tegemoetkoming van € 375. Gezien de gevolgen die
+een onterechte afwijzing heeft kunnen hebben, acht het kabinet daarom
+een forfaitaire tegemoetkoming van € 500 passend.
+
+Met de forfaitaire tegemoetkoming worden burgers tegemoetgekomen voor
+het feit dat de Belastingdienst hun verzoek onterecht heeft afgewezen.
+Een deel van de burgers is na die afwijzing op een later moment niet
+toegelaten tot een MSNP of WSNP en heeft ook geen afwijzing conform
+formeel juridische afwijsgronden op een MSNP-verzoek ontvangen. Het
+tegemoetkomingsbeleid bestaat daarom niet alleen uit een forfaitaire
+tegemoetkoming, maar ook uit een oplossing voor de schuldenproblematiek
+door te voorzien in een mogelijkheid om alsnog een schuldenvrije start
+te creëren. Voor burgers die na de onterechte afwijzing van de
+Belastingdienst niet meer zijn toegelaten tot een MSNP of WSNP of ten
+tijde van het in werking treden van de tegemoetkomingsregeling zich in
+een lopend MSNP- of WSNP-traject bevinden, is aanvullend
+tegemoetkomingsbeleid opgesteld, zodat deze burgers in de positie kunnen
+komen waarin zij zouden zijn als de Belastingdienst het initiële
+MSNP-verzoek niet onterecht zou hebben afgewezen. Aangezien burgers in
+categorie I een schuldenvrije start hebben kunnen realiseren doordat zij
+na de onterechte afwijzing van de Belastingdienst alsnog zijn toegelaten
+tot een MSNP of WSNP en burgers in categorie III na de onterechte
+afwijzing een afwijzing conform formeel juridische afwijsgronden van de
+Belastingdienst hebben ontvangen, komen deze burgers niet in aanmerking
+voor de tegemoetkomingsonderdelen die zien op het alsnog creëren van een
+schuldenvrije start.
+
+De leden van de fracties van de ChristenUnie, PVV en NSC vragen of bij
+de vormgeving van het tegemoetkomingsbeleid andere (niet-financiële)
+manieren van tegemoetkomen en van maatwerk zijn overwogen en waarom deze
+wel of niet in het wetsvoorstel zijn opgenomen.
+
+Door de onterechte afwijzing van MSNP-verzoeken heeft de Belastingdienst
+burgers onnodig en aanzienlijk beperkt in de mogelijkheid om een
+schuldenvrije start te realiseren, dan wel is die mogelijkheid hun in
+zijn geheel ontnomen. Ter erkenning hiervan is ook gekeken naar een
+niet-financiële tegemoetkoming in de vorm van het aanbieden van excuses.
+Omdat de afwijzing aanzienlijke grote gevolgen kan hebben voor de
+burgers, wordt het passend geacht om − naast excuses aan te bieden − de
+burgers ook een onverplichte tegemoetkoming uit te keren en om deze
+burgers zo in de positie te brengen waar zij zich in zouden hebben
+bevonden als zij wel waren toegelaten tot een MSNP: een schuldenvrije
+start.
+
+Daarom ontvangt elke burger die onterecht door de Belastingdienst is
+afgewezen een forfaitaire tegemoetkoming ter erkenning van de fout die
+is gemaakt.
+
+In een eerder stadium is voorgesteld om de hoogte van de tegemoetkoming
+te laten afhangen van de periode tussen de onterechte afwijzing en
+toelating tot MSNP of WSNP, te weten € 500 per zes maanden.[^2] De
+hoogte van deze tegemoetkoming was gebaseerd op de compensatie voor
+immateriële schade geleden, zoals opgenomen in de artikelen 2.1 en 2.3,
+vierde lid, van de Wet hersteloperatie toeslagen (Wht). Aanvullend werd
+destijds voorgesteld om burgers die uiteindelijk in een WSNP in plaats
+van een MSNP terecht zijn gekomen eenmalig € 500 extra uit te keren,
+omdat een WSNP in beginsel ingrijpender is dan een MSNP. Uiteindelijk is
+onder meer na het advies van de Afdeling besloten om te kiezen voor een
+forfaitaire tegemoetkoming voor elke onterechte afwijzing van de
+Belastingdienst, waarbij het bedrag voor elke getroffen burger gelijk
+is. Burgers die nog geen schuldenvrije start hebben kunnen realiseren,
+wordt daarnaast met dit wetsvoorstel alsnog een schuldenvrije start
+geboden door middel van de pseudo-MSNP, kwijtschelding van belasting- en
+toeslagenschulden en terugbetaling van deze betaalde en verrekende
+bedragen. Hiermee wordt aldus maatwerk geboden.
+
+De leden van de fracties van de ChristenUnie, VVD en NSC vragen of het
+kabinet uitgebreider kan reflecteren op het verwijt van de Afdeling dat
+het tegemoetkomingsbeleid is opgesteld zonder dat vooraf en tijdens de
+uitwerking met betrokken burgers is gesproken en vragen met welke
+betrokkenen is gesproken en of het kabinet kan aangeven welke suggesties
+door betrokken burgers en belangenorganisaties zijn aangevoerd en,
+indien van toepassing, waarom deze suggesties niet of wel zijn
+overgenomen.
+
+Voor de uitwerking van het tegemoetkomingsbeleid is gesproken met
+burgers die vanaf 2014 een onterechte afwijzing van de Belastingdienst
+hebben ontvangen. Daarnaast is gesproken met betrokken partijen als de
+Nederlandse Vereniging voor Volkskrediet (NVVK), VNG, Stella-teams en
+het landelijke overlegorgaan van rechters-commissaris in procedures
+betreffende faillissementen, wettelijke schuldsaneringsregelingen en
+surseances van betaling (Recofa). Er is een representatieve doelgroep
+benaderd met de vraag wat deze burgers een toereikende tegemoetkoming
+zouden vinden. Daarnaast is met ongeveer 2,5% van de burgers in
+categorie II contact geweest over hun behoeftes en wensen. Statistisch
+gezien is dit geen grote steekproef, maar de conclusie was eenduidig:
+allen wensten bovenal alsnog schuldenvrij te raken. Daarbij werd het als
+oneerlijk beschouwd dat deze burgers hier nu nog voor moeten betalen,
+terwijl zij al jarenlang betalingen aan hun schuldeisers hebben gedaan
+en nog steeds niet schuldenvrij zijn.
+
+Ten aanzien van burgers die in 2012 of 2013 mogelijk een onterechte
+afwijzing van de Belastingdienst hebben ontvangen, beschikt de
+Belastingdienst in principe niet meer over alle gegevens die
+noodzakelijk zijn voor een onderzoek naar een afwijzing. Burgers die in
+2012 of 2013 mogelijk een onterechte afwijzing van de Belastingdienst
+hebben ontvangen zijn daarom niet meegenomen in het onderzoek en dus
+niet bij de Belastingdienst bekend. De Belastingdienst heeft die burgers
+dan ook niet in de uitwerking van het tegemoetkomingsbeleid kunnen
+betrekken en dus ook niet hun behoeften in kaart kunnen brengen.
+
+Voorts is gekeken naar eerdere ervaringen bij de Uitvoeringsorganisatie
+Herstel Toeslagen (UHT). In alle gesprekken kwam naar voren dat de
+voornaamste wens van burgers was dat zij alsnog een schuldenvrije start
+zouden kunnen realiseren. Ook verschillende stakeholders zoals de VNG
+gaven aan dat onderscheid moet worden gemaakt tussen burgers die al wel
+een schuldenvrije start hebben gerealiseerd en burgers die dat nog niet
+hebben gedaan. De stakeholders hebben benadrukt dat het voor deze
+laatste groep van belang is dat aan hen alsnog een schuldenvrije start
+wordt geboden. Om deze reden is de pseudo-MSNP, ook na het advies van de
+Afdeling, onderdeel van het wetsvoorstel, omdat dit volgens het kabinet
+de enige manier is waarop voor burgers daadwerkelijk een schuldenvrije
+start gerealiseerd kan worden. Ook tijdens de internetconsultatie hebben
+burgers en belangenorganisaties de ruimte gehad om suggesties te doen.
+In het algemeen deel van de memorie van toelichting is toegelicht waarom
+suggesties die door middel van de internetconsultatie zijn ontvangen wél
+of niet zijn overgenomen.[^3] Gezien het voorgaande is het kabinet van
+oordeel dat alle betrokken partijen zijn geraadpleegd en dat het
+tegemoetkomingsbeleid voldoende zal aansluiten op de wensen van burgers.
+
+# MSNP-verzoek onterecht afgewezen
+
+## [Regulier MSNP-traject]{.underline}
+
+De leden van de fractie van de VVD vragen wat de verhouding is van
+burgers die kiezen voor schuldbemiddeling en de mogelijkheid om te
+saneren door middel van een door een derde verstrekt saneringskrediet.
+Voorts vragen deze leden of dit in elke gemeente mogelijk is en welke
+van de twee eerdergenoemde mogelijkheden het meest efficiënt is.
+
+Uit onderzoek van de NVVK blijkt dat schuldhulpverleners steeds vaker
+aansturen op schuldregelingen op basis van een saneringskrediet en dat
+het aandeel saneringskredieten inmiddels bijna 70% betreft. Het
+saneringskrediet wordt als het meest efficiënt gezien, omdat de burger
+nog maar aan één schuldeiser maandelijks een bedrag hoeft te betalen.
+Dit leidt tot minder zorgen bij de burger en zorgt voor een vermindering
+van de administratieve lasten voor schuldhulpverleners en schuldeisers.
+Niet alle gemeenten bieden op dit moment saneringskredieten aan, maar
+elke gemeente zal een pseudo-MSNP aanbieden voor de getroffen burgers en
+bij de uitvoering hiervan de richtlijnen van de VNG volgen.
+
+## [Onterechte afwijzing door de Belastingdienst]{.underline}
+
+De leden van de fractie van de VVD vragen in hoeveel gevallen een
+inhoudelijke toetsing heeft plaatsgevonden door een 1x1 indicatie en
+vervolgens in hoeveel gevallen na een inhoudelijke toetsing het
+MSNP-verzoek is afgewezen en is toegewezen.
+
+Er is niet specifiek vastgelegd hoe vaak een 1x1-indicatie heeft geleid
+tot uitval en dus een inhoudelijke toetsing. Een afwijzing van de
+Belastingdienst op basis van een 1x1-indicatie is vastgelegd als
+fraude-indicatie. Uit het onderzoek naar de onterechte afwijzingen
+blijkt dat ongeveer 2% van de burgers (ongeveer 100 burgers volgens de
+huidige inschattingen) een afwijzing op basis van een fraude-indicatie
+oftewel een 1x1-indicatie heeft ontvangen.
+
+Voorts vragen deze leden of in kaart is gebracht hoe vaak de
+Belastingdienst de enige schuldeiser is geweest die niet heeft ingestemd
+met een MSNP-verzoek.
+
+Deze informatie is niet beschikbaar, omdat de schuldhulpverlener in de
+regel niet aan de Belastingdienst mededeelt of andere en zo ja, welke
+schuldeisers (niet) akkoord gaan. Normaliter is de reactie van de
+Belastingdienst wel van groot belang voor het wel of niet tot stand
+komen van een MSNP, omdat de Belastingdienst een grote en preferente
+schuldeiser is. In de praktijk blijkt dat het standpunt van de
+Belastingdienst om die reden bepalend kan zijn voor de medewerking van
+andere schuldeisers.
+
+De leden van de fracties van NSC en de VVD vragen of het mogelijk is om
+een onderverdeling te maken van de onterechte afwijzingen naar jaar en
+de reden voor de afwijzing.
+
+Het onderzoek naar de onterechte afwijzingen van de Belastingdienst is
+nog niet afgerond, omdat het deel van burgers dat ook onderdeel is van
+de UHT-populatie nog wordt onderzocht. Omdat de UHT-populatie mogelijk
+afwijkt van de reeds onderzochte populatie, kan de definitieve
+onderverdeling nog (aanzienlijk) veranderen. Bij de huidige stand van
+zaken -- te weten het onderzoek naar de populatie exclusief de
+UHT-populatie -- kan de populatie als volgt worden onderverdeeld,
+waarbij de aantallen zijn afgerond op tientallen en de percentages op
+een geheel getal.
+
+  -----------------------------------------------------------------------
+  Afwijsgrond                                      Aantal[^4]
+  ------------------------------------------------ ----------------------
+  FSV-registratie                                  30 (1%)
+
+  Fraude-indicatie                                 100 (2%)
+
+  Grensbedrag[^5]                                  4.300 (89%)
+
+  O/GS-kwalificatie                                80 (2%)
+
+  Combinatie van de bovenstaande afwijsgronden     330 (7%)
+
+  Totaal                                           **4.840**
+  -----------------------------------------------------------------------
+
+*Onderverdeling op grond van afwijsgrond*
+
+*Onderverdeling categorie per afwijsgrond*
+
++----------------+-------+-------+---------+---------+--------+----+
+| afwijsgrond    | FSV-  | Fr    | Gren    | O/G     | Comb   | To |
+|                |       | aude- | sbedrag | S-kwali | inatie | ta |
+| Categorie      | r     |       |         | ficatie |        | al |
+|                | egist | indi  |         |         |        |    |
+|                | ratie | catie |         |         |        |    |
++================+=======+=======+=========+=========+========+====+
+| Categorie I    | 20    | 50    | 1.760   | 50      | 230    | *  |
+|                |       |       |         |         |        | *2 |
+|                |       |       |         |         |        | .1 |
+|                |       |       |         |         |        | 10 |
+|                |       |       |         |         |        | ** |
++----------------+-------+-------+---------+---------+--------+----+
+| Categorie II   | 10    | 20    | 400     | 20      | 50     | *  |
+|                |       |       |         |         |        | *5 |
+|                |       |       |         |         |        | 00 |
+|                |       |       |         |         |        | ** |
++----------------+-------+-------+---------+---------+--------+----+
+| Categorie III  | \-    | 30    | 2.050   | 10      | 40     | *  |
+|                |       |       |         |         |        | *2 |
+|                |       |       |         |         |        | .1 |
+|                |       |       |         |         |        | 30 |
+|                |       |       |         |         |        | ** |
++----------------+-------+-------+---------+---------+--------+----+
+| Categorie IV   | \-    | \-    | 30      | \-      | \-     | ** |
+|                |       |       |         |         |        | 30 |
+|                |       |       |         |         |        | ** |
++----------------+-------+-------+---------+---------+--------+----+
+| Categorie I of | \-    | \-    | 60      | \-      | 10     | ** |
+| IV[^6]         |       |       |         |         |        | 70 |
+|                |       |       |         |         |        | ** |
++----------------+-------+-------+---------+---------+--------+----+
+| Totaal         | *     | **    | **      | **80**  | *      | *  |
+|                | *30** | 100** | 4.300** |         | *330** | *4 |
+|                |       |       |         |         |        | .8 |
+|                |       |       |         |         |        | 40 |
+|                |       |       |         |         |        | ** |
++----------------+-------+-------+---------+---------+--------+----+
+
+*Onderverdeling per jaar*
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Jaar</p>
+<p>Categorie</p></th>
+<th>2014</th>
+<th>2015</th>
+<th>2016</th>
+<th>2017</th>
+<th>2018</th>
+<th>2019</th>
+<th>2020</th>
+<th>2021</th>
+<th>Totaal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Categorie I</td>
+<td>40</td>
+<td>440</td>
+<td>490</td>
+<td>320</td>
+<td>320</td>
+<td>290</td>
+<td>180</td>
+<td>30</td>
+<td><strong>2.110</strong></td>
+</tr>
+<tr>
+<td>Categorie II</td>
+<td>20</td>
+<td>90</td>
+<td>130</td>
+<td>80</td>
+<td>70</td>
+<td>60</td>
+<td>40</td>
+<td>10</td>
+<td><strong>500</strong></td>
+</tr>
+<tr>
+<td>Categorie III</td>
+<td>10</td>
+<td>250</td>
+<td>590</td>
+<td>430</td>
+<td>350</td>
+<td>240</td>
+<td>220</td>
+<td>40</td>
+<td><strong>2.130</strong></td>
+</tr>
+<tr>
+<td>Categorie IV</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>10</td>
+<td>10</td>
+<td><strong>-</strong></td>
+<td>10</td>
+<td><strong>30</strong></td>
+</tr>
+<tr>
+<td>Categorie I of IV<a href="#fn1" class="footnote-ref" id="fnref1"
+role="doc-noteref"><sup>1</sup></a></td>
+<td>-</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td><strong>70</strong></td>
+</tr>
+<tr>
+<td>Totaal</td>
+<td><strong>70</strong></td>
+<td><strong>780</strong></td>
+<td><strong>1.220</strong></td>
+<td><strong>840</strong></td>
+<td><strong>760</strong></td>
+<td><strong>610</strong></td>
+<td><strong>460</strong></td>
+<td><strong>100</strong></td>
+<td><strong>4.840</strong></td>
+</tr>
+</tbody>
+</table>
+<section id="footnotes" class="footnotes footnotes-end-of-document"
+role="doc-endnotes">
+<hr />
+<ol>
+<li id="fn1"><p>Categorie I of IV: gegeven dat het nog onduidelijk is
+wanneer het wetsvoorstel in werking zal treden, is het voor burgers die
+op dit moment in een lopend MSNP- of WSNP-traject zitten nog niet zeker
+of dit traject is afgerond bij inwerkingtreding van de wet.<a
+href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section>
+
+> *Onderverdeling afwijsgrond per jaar*
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 24%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 9%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Jaar</p>
+<p>Afwijsgrond</p></th>
+<th>2014</th>
+<th>2015</th>
+<th>2016</th>
+<th>2017</th>
+<th>2018</th>
+<th>2019</th>
+<th>2020</th>
+<th>2021</th>
+<th>Totaal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FSV-registratie</td>
+<td>-</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><strong>30</strong></td>
+</tr>
+<tr>
+<td>Fraude-indicatie</td>
+<td>30</td>
+<td>40</td>
+<td>30</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td><strong>100</strong></td>
+</tr>
+<tr>
+<td>Grensbedrag</td>
+<td>-</td>
+<td>590</td>
+<td>1.080</td>
+<td>780</td>
+<td>700</td>
+<td>590</td>
+<td>460</td>
+<td>100</td>
+<td><strong>4.300</strong></td>
+</tr>
+<tr>
+<td>O/GS-kwalificatie</td>
+<td>20</td>
+<td>30</td>
+<td>10</td>
+<td>20</td>
+<td>-</td>
+<td>-</td>
+<td><strong>-</strong></td>
+<td>-</td>
+<td><strong>80</strong></td>
+</tr>
+<tr>
+<td>Combinatie</td>
+<td>20</td>
+<td>110</td>
+<td>90</td>
+<td>30</td>
+<td>60</td>
+<td>20</td>
+<td>-</td>
+<td>-</td>
+<td><strong>70</strong></td>
+</tr>
+<tr>
+<td>Totaal</td>
+<td><strong>70</strong></td>
+<td><strong>780</strong></td>
+<td><strong>1.220</strong></td>
+<td><strong>840</strong></td>
+<td><strong>760</strong></td>
+<td><strong>610</strong></td>
+<td><strong>460</strong></td>
+<td><strong>100</strong></td>
+<td><strong>4.840</strong></td>
+</tr>
+</tbody>
+</table>
+
+## [Tegemoetkoming is wenselijk en gepast]{.underline}
+
+De leden van de fractie van de VVD vragen of er situaties bekend dan wel
+denkbaar zijn waar een onterechte afwijzing heeft geleid tot een
+juridische verplichting tot het betalen van een schadevergoeding en of
+die eventuele schadevergoeding boven op de onverplichte tegemoetkoming
+komt.
+
+Tot op heden is niet vastgesteld dat sprake is geweest van een
+onrechtmatige daad en daarmee de juridische verplichting bestaat tot het
+betalen van een schadevergoeding. Mocht een burger succesvol kunnen
+onderbouwen dat de Belastingdienst jegens hem onrechtmatig heeft
+gehandeld en vervolgens vast komen te staan dat er een juridische
+verplichting op de Belastingdienst rust om deze burger te compenseren
+voor de daardoor geleden vermogensschade, staat deze materiële
+schadevergoeding los van een eventuele tegemoetkoming die op grond van
+het onderhavige wetsvoorstel − die ter erkenning van leed is − aan de
+betreffende burger is of kan worden toegekend en niet ter compensatie
+van bepaalde vermogensschade wordt uitgekeerd.
+
+Voorts vragen zij hoeveel schuldhulpverleners gebruik maken van de
+werkwijze die de VNG heeft opgesteld, hoe deze werkwijze wordt ervaren
+en in welke gemeenten het meest gebruik wordt gemaakt van de werkwijze.
+
+Alle schuldhulpverleners maken gebruik van de door VNG opgestelde
+werkwijze wanneer een burger zich bij de gemeente meldt voor een
+pseudo-MSNP. Enkele tientallen burgers hebben zich reeds gemeld, maar
+het precieze aantal per gemeente is niet bekend. Tot nu toe heeft
+ongeveer 20% van de categorie II-burgers met wie telefonisch contact is
+geweest aangegeven voornemens te zijn om contact op te nemen met hun
+gemeente voor schuldhulpverlening. De gemeenten zijn tevreden over deze
+werkwijze en over het feit dat zij vooruitlopend op de wet hebben kunnen
+starten met het bieden van hulp aan burgers en het herstellen van
+vertrouwen in de overheid. De burgers geven aan dat ze blij zijn dat er
+nu eindelijk een oplossing is gekomen voor hun uitzichtloze
+schuldenproblematiek.
+
+Burgers die in aanmerking komen voor een pseudo-MSNP zijn verdeeld over
+het hele land, maar de gemeente met het grootste aantal gedupeerde
+burgers is de gemeente Amsterdam.
+
+## [Uitgangspunten van het voorgestelde tegemoetkomingsbeleid]{.underline}
+
+De leden van de fractie van de VVD vragen welke andere redenen mede ten
+grondslag hebben kunnen liggen aan het niet tot stand komen van een MSNP
+en of aan deze andere redenen geen gevolg wordt gegeven.
+
+Bij alle burgers die in aanmerking komen voor een tegemoetkoming op
+grond van het onderhavige wetsvoorstel heeft de Belastingdienst
+onterecht een MSNP-verzoek afgewezen. Naast die onterechte afwijzing
+zouden ook andere omstandigheden een rol kunnen hebben gespeeld bij het
+niet tot stand komen van een MSNP. Hierbij kan bijvoorbeeld worden
+gedacht aan de omstandigheid dat een andere schuldeiser weigert in te
+stemmen met het saneringsvoorstel of dat de burger kiest voor een andere
+schuldhulpverlener, bijvoorbeeld in verband met een verhuizing, en
+daardoor het traject bij de huidige schuldhulpverlener wordt beëindigd.
+De Belastingdienst kan echter bij het onderzoek naar de onterechte
+afwijzingen niet met zekerheid vaststellen dat eventuele andere
+omstandigheden daadwerkelijk een rol hebben gespeeld bij het niet tot
+stand komen van een MSNP en dat een MSNP ook niet tot stand zou zijn
+gekomen als de Belastingdienst wel had ingestemd. Daar komt bij dat de
+Staatssecretaris van Financiën - Fiscaliteit en Belastingdienst
+laatstelijk in de Kamerbrief van 23 april 2024 al heeft aangegeven dat
+de focus ligt op de fout die de Belastingdienst heeft gemaakt, namelijk
+het onterecht afwijzen, en dat burgers voor die fout tegemoet dienen te
+worden gekomen. Voorts is het niet ondenkbaar dat de onterechte
+afwijzing van de Belastingdienst (direct) invloed heeft gehad op een
+andere omstandigheid die de totstandkoming van een MSNP zou kunnen
+hebben belemmerd. Het is niet ondenkbaar dat de burger kiest voor een
+andere schuldhulpverlener in de hoop op meer succes of dat andere
+schuldeisers ook weigeren in te stemmen als zij weten dat de
+Belastingdienst heeft geweigerd in te stemmen, aangezien de
+Belastingdienst vaak een hoge dan wel de hoogste vordering op de burger
+heeft. Ervan afgezien dat niet kan worden vastgesteld dat zonder een
+onterechte afwijzing van de Belastingdienst wél een MSNP tot stand zou
+zijn gekomen, acht het kabinet het ook gepast dat gevolg wordt gegeven
+aan een afwijzing die onterecht is geweest. De Belastingdienst had
+nimmer MSNP-verzoeken op de in het wetsvoorstel genoemde onterechte
+afwijsgronden mogen afwijzen, waarbij de afwijzing aanzienlijke gevolgen
+voor de burger heeft kunnen hebben. De omstandigheid dat het gaat om een
+fout die ingrijpende gevolgen heeft kunnen hebben voor (kwetsbare)
+burgers rechtvaardigt volgens het kabinet een tegemoetkoming, ook als
+sprake zou zijn geweest van een andere omstandigheid die zonder de
+onterechte afwijzing van de Belastingdienst de totstandkoming van een
+MSNP zou hebben belemmerd. Gelet daarop wordt geen rekening gehouden met
+een andere omstandigheid die de totstandkoming van een MSNP (mogelijk)
+heeft belemmerd.
+
+Voorts vragen deze leden of nader kan worden toegelicht waar nodig wordt
+aangesloten bij het beleid van de UHT en hoe 'waar nodig' moet worden
+geïnterpreteerd.
+
+Bij het opstellen van het beleid rondom de pseudo-MSNP wordt zoveel
+mogelijk vastgehouden aan het reguliere MSNP-beleid. Daarnaast is voor
+aanvullende zaken die niet onderdeel zijn van reguliere MSNP-beleid −
+dus waar nodig − aansluiting gezocht bij het beleid van de UHT. Een
+voorbeeld hiervan is de nabestaandenregeling die regelt dat nabestaanden
+de forfaitaire tegemoetkoming ontvangen als de getroffen burger voor
+toekenning van de forfaitaire tegemoetkoming is overleden. Ook voor het
+inrichten van de uitvoering is nauw contact geweest met de UHT,
+bijvoorbeeld over de communicatiestrategie voor deze kwetsbare
+doelgroep.
+
+De leden van de fractie van de VVD vragen ook of kan worden toegelicht
+waarom de uitvoering zal inzetten op korte aansturingslijnen, hoe dat er
+in de praktijk uitziet en wat het betekent voor de burger.
+
+Er vindt regulier overleg plaats met de VNG zodat signalen van
+schuldhulpverleners snel kunnen worden doorgegeven en meegenomen in de
+communicatie. Daarnaast is er nauw contact tussen de verschillende teams
+bij de Belastingdienst. Een voorbeeld van de korte aansturingslijnen is
+dat er, indien er meerdere vergelijkbare vragen binnenkomen bij het
+contactcentrum, snel een aanpassing in de communicatie met de getroffen
+burgers zal worden gedaan zodat het duidelijker wordt voor deze burgers.
+Dit betekent dat de burger sneller en beter geholpen zal zijn omdat de
+Belastingdienst sneller de feedback verwerkt. Ook signalen die de VNG
+ontvangt van schuldhulpverleners worden snel omgezet in actie.
+
+## [Wanneer géén tegemoetkoming]{.underline}
+
+De leden van de fractie van de VVD vragen hoe de in het wetsvoorstel
+opgenomen lijst met terechte afwijsgronden zich verhoudt tot het recht
+op vergissen.
+
+In het algemeen deel van de memorie van toelichting staan afwijsgronden
+vermeld die de Belastingdienst heeft gebruikt bij de beoordeling van
+MSNP-verzoeken en die worden beschouwd als terechte afwijsgronden.[^7]
+Het gaat hierbij bijvoorbeeld om de afwijsgrond dat het voorstel een
+verkeerd percentage bevat of om de afwijsgrond dat de opgegeven schuld
+onjuist is. Als de Belastingdienst een MSNP-verzoek ontvangt waarin een
+verkeerd percentage of een verkeerde schuld staat, kan hij logischerwijs
+niet instemmen met het verzoek. De Belastingdienst zal de
+schuldhulpverlener die het verzoek namens de burger heeft ingediend
+attenderen op het verkeerde percentage of de verkeerde schuld en
+aangeven dat hij daarom niet kan meewerken aan een MSNP. Vervolgens
+heeft de schuldhulpverlener de mogelijkheid om een aangepast voorstel te
+sturen, waarin wel het juiste percentage of de juiste schuld staat. Op
+die manier kan alsnog instemming van de Belastingdienst worden
+verkregen. Een onjuistheid bij een MSNP-verzoek hoeft dus niet betekenen
+dat de betreffende burger na herstel van de onjuistheid niet meer in
+aanmerking komt voor een MSNP.
+
+Voorts vragen zij wat precies wordt bedoeld dat met burgerperspectief
+naar de afwijzingsbrieven wordt gekeken.
+
+Een burger komt niet in aanmerking voor een tegemoetkoming als er een
+gerechtvaardigde reden is geweest voor afwijzing van het MSNP-verzoek
+door de Belastingdienst. Hiervan kan bijvoorbeeld sprake zijn als het
+MSNP-verzoek is afgewezen vanwege een opgelegde vergrijpboete. Bij de
+beoordeling of sprake is geweest van een onterechte dan wel
+gerechtvaardigde afwijzing door de Belastingdienst, zal met
+burgerperspectief naar de afwijzingsbrieven worden gekeken. Dit betekent
+dat wordt gekeken of een burger uit de brief zou kunnen opmaken wat de
+reden voor afwijzing is geweest, en niet alleen of voor de
+Belastingdienst duidelijk is waarom het MSNP-verzoek is afgewezen. Per
+afwijzing zal worden bekeken of de reden voor afwijzing daadwerkelijk
+(duidelijk) vermeld stond. De burger kan bijvoorbeeld de reden voor
+afwijzing achterhalen als in de afwijzingsbrief van de Belastingdienst
+heeft gestaan dat het MSNP-verzoek is afgewezen vanwege een opgelegde
+vergrijpboete, bijvoorbeeld: '*Ik wijs het verzoek af, omdat op ... aan
+u een vergrijpboete is opgelegd die samenhangt met de aanslag ... waarop
+uw verzoek ziet'.*
+
+## [Herstel op grond van de Wet hersteloperatie toeslagen]{.underline}
+
+De leden van de fractie van de VVD vragen hoeveel burgers zijn geraakt
+door de toeslagenproblematiek en een onterechte afwijzing van de
+Belastingdienst hebben ontvangen.
+
+Momenteel loopt het onderzoek naar burgers die zowel een compensatie op
+grond van de Wht ontvangen als mogelijk een onterechte afwijzing van de
+Belastingdienst hebben ontvangen, waardoor nog geen definitieve cijfers
+kunnen worden gecommuniceerd. Dit onderzoek wordt verricht door de
+Belastingdienst en betreft ongeveer 4.300 burgers in de UHT-populatie
+die een MSNP-verzoek hebben gedaan dat mogelijk ook onterecht is
+afgewezen door de Belastingdienst. Volgens de laatste informatie is de
+verwachting, zoals vermeld in de uitvoeringstoets, dat ongeveer 1.500
+burgers zijn geraakt door de toeslagenproblematiek en een onterechte
+afwijzing hebben ontvangen.
+
+De leden van de fracties van NSC en de VVD vragen of burgers die een
+compensatie op grond van de Wht ontvangen ook in aanmerking komen voor
+een tegemoetkoming op grond van het onderhavige wetsvoorstel. Als dit
+niet het geval is vragen zij waarom dan in 2025 medewerkers nodig zijn
+voor de beoordeling van dossiers van burgers die op grond van de Wht een
+compensatie (hebben) ontvangen.
+
+Burgers die een onterechte afwijzing van de Belastingdienst hebben
+ontvangen en een compensatie op grond van de Wht hebben ontvangen of nog
+kunnen ontvangen, komen ook in aanmerking voor een tegemoetkoming op
+grond van het onderhavige tegemoetkomingsbeleid. Er is immers sprake van
+twee van elkaar losstaande gebeurtenissen. Dit betekent dat een burger
+die compensatie op grond van de Wht heeft ontvangen ook in aanmerking
+komt voor de forfaitaire tegemoetkoming -- en de pseudo-MSNP en
+kwijtschelding van de openstaande belasting- en toeslagschulden als
+sprake is van een burger in categorie II − als deze burger een
+onterechte afwijzing heeft ontvangen. Alleen met betrekking tot het
+bedrag gelijk aan de betaalde en verrekende bedragen die zien op
+belastingschulden of toeslagschulden, is de aanspraak ingeperkt. Als een
+burger op grond van de Wht al is gecompenseerd voor de bedragen die zijn
+betaald of verrekend en betrekking hebben gehad op een belasting- of
+toeslagschuld die onderdeel heeft uitgemaakt van het initiële
+MSNP-verzoek, wordt deze burger op grond van het onderhavige
+wetsvoorstel[^8] hiervoor niet nogmaals tegemoetgekomen. Hiermee wordt
+voorkomen dat de burger voor dezelfde betaling of verrekening tweemaal
+een bedrag ontvangt.
+
+Aangezien het onderzoek naar burgers die op grond van de Wht zijn of
+worden gecompenseerd nog loopt, zijn in 2025 medewerkers nodig voor de
+beoordeling van de afwijzingen van de Belastingdienst die deze burgers
+hebben ontvangen.
+
+De leden van de fractie van het CDA vragen of het klopt dat een burger
+die geen MSNP heeft aangevraagd en wordt gecompenseerd op grond van de
+Wht enkel is gecompenseerd voor de achterstanden bij private schulden,
+terwijl bij een burger die wel een MSNP-verzoek heeft gedaan dat
+vervolgens onterecht is afgewezen wel het totaal aan schulden wordt
+voldaan. Deze leden vragen of het kabinet dit een evenwichtige uitkomst
+vindt en of schuldenvrije start bij het onderhavige wetsvoorstel niet
+overeen zou moeten komen met een schone lei zoals dat geldt voor burgers
+die zijn geraakt door de toeslagenproblematiek.
+
+De gedupeerden van de toeslagenaffaire vallen onder de reikwijdte van de
+Wht. Dat beleid staat los van het MSNP-tegemoetkomingsbeleid. Burgers in
+categorie II en IV komen in aanmerking voor de zogenaamde pseudo-MSNP.
+De pseudo-MSNP is een regulier MSNP-traject waarbij de Belastingdienst
+namens de burger het bedrag gelijk aan de afloscapaciteit voldoet. Dit
+betekent niet dat de Belastingdienst de (private) schulden van de burger
+overneemt of geheel voldoet. Het gaat om openstaande schulden die ook in
+een regulier traject zouden zijn meegenomen en waarbij hetgeen de
+Belastingdienst namens de burger voldoet gelijk is aan het bedrag dat
+deze burger gedurende het traject zou moeten afdragen. De pseudo-MSNP
+komt alleen tot stand als alle schuldeisers van de burger instemmen dan
+wel gedwongen worden tot instemming.
+
+Gegeven het doel van onderliggend wetsvoorstel om burgers alsnog in de
+situatie te brengen waar zij zich in zouden hebben bevonden als de
+Belastingdienst de MSNP-aanvraag niet onterecht had afgewezen, wordt het
+realiseren van een schuldenvrije start passend geacht.
+
+# Het voorgestelde tegemoetkomingsbeleid
+
+De leden van de fractie van de PVV vragen naar een verduidelijking naar
+de wijze waarop de afloscapaciteit van de burger wordt vastgesteld.
+
+De afloscapaciteit wordt op dezelfde manier vastgesteld als in een
+regulier MSNP-traject. Om te bepalen wat een burger gedurende een
+MSNP-traject dient te reserveren voor zijn schuldeisers, wordt door de
+schuldhulpverlener het zogenaamde vrij te laten bedrag (VTLB) berekend.
+Het VTLB is het deel van het inkomen van de burger dat per maand
+behouden mag worden om te kunnen voorzien in (noodzakelijke)
+levensbehoeften, bijvoorbeeld de woonlasten en boodschappen. Alle
+inkomsten boven het VTLB dient de burger af te dragen. Het bedrag dat de
+burger maandelijks boven zijn VTLB dient af te dragen wordt
+vermenigvuldigd met het aantal maanden dat het MSNP-traject behelst, in
+beginsel achttien maanden. Naast het bedrag dat de burger maandelijks
+moet afdragen bestaat de afloscapaciteit uit het aanwezige vermogen en
+de te verwachten baten.
+
+*Voorbeeld:*
+
+*Burger A zit in categorie II en wil een beroep doen op de pseudo-MSNP.
+Burger A heeft een inkomen van € 2.000 per maand. Het VTLB bedraagt
+€ 1.800. Dat betekent dat de burger A gedurende het MSNP-traject € 200
+per maand dient af te dragen voor zijn schuldeisers. Het totale bedrag
+bedraagt € 200 x 18 = € 3.600. Burger A beschikt niet over vermogen. Wél
+ontvangt deze burger de forfaitaire tegemoetkoming ad € 500. Dit bedrag
+wordt opgeteld bij het bedrag dat burger A tijdens het MSNP-traject in
+totaal dient af te dragen door middel van de maandelijkse afdrachten.
+Hierdoor is totale afloscapaciteit € 3.600 + € 500 = € 4.100.*
+
+> De leden van de fracties van de PVV en VVD vragen of er een begrenzing
+> is in het aantal forfaitaire tegemoetkomingen per burger en hoe vaak
+> het naar verwachting zal voorkomen dat een burger meerdere malen de
+> forfaitaire tegemoetkoming ontvangt.
+
+Uit het wetsvoorstel zoals dat bij uw Kamer op 18 december 2024 is
+ingediend volgt geen begrenzing. Het kabinet acht het echter niet
+wenselijk als een burger meermaals de forfaitaire tegemoetkoming
+ontvangt als hij tijdens hetzelfde MSNP-traject meerdere onterechte
+afwijzingen heeft ontvangen, bijvoorbeeld op dezelfde dag. Gelet daarop
+zal het kabinet in de wet verduidelijken in welke situatie een burger
+niet meerdere keren de forfaitaire tegemoetkoming ontvangt als er
+meerdere onterechte afwijzingen zijn verstuurd. Verzoeken die binnen de
+periode van 240 dagen na de eerste onterechte afwijzing door de
+Belastingdienst onterecht zijn afgewezen, worden beschouwd als één
+verzoek. Aan dat verzoek wordt vervolgens maar één keer tegemoetgekomen.
+
+> In de berekeningen van de tegemoetkomingskosten bij het wetsvoorstel
+> zoals dat bij uw Kamer is ingediend, is eerder uitgegaan van 1,25
+> afwijzingen per persoon. Door de voorgestelde verduidelijking van het
+> wetsvoorstel daalt de berekening naar circa 1,05 afwijzingen per
+> persoon. De inschatting is dat hierdoor de tegemoetkomingskosten met
+> circa € 0,7 miljoen zullen afnemen.
+>
+> *Voorbeeld:*
+>
+> *Burger B ontvangt in 2014 een onterechte afwijzing naar aanleiding
+> van een saneringsvoorstel. Vervolgens ontvangt deze burger in 2017 een
+> onterechte afwijzing op een ander MSNP-verzoek, wederom naar
+> aanleiding van een saneringsvoorstel. Burger B ontvangt tweemaal de
+> forfaitaire tegemoetkoming, dus in totaal € 1.000.*
+>
+> *Voorbeeld:*
+>
+> *Burger C ontvangt in mei 2015 een onterechte afwijzing naar
+> aanleiding van een stabilisatieverzoek dat als MSNP-verzoek is
+> behandeld. Vervolgens ontvangt deze burger in juli 2015 in hetzelfde
+> MSNP-traject een onterechte afwijzing naar aanleiding van een
+> saneringsvoorstel. Burger C ontvangt in dat geval éénmaal de
+> forfaitaire tegemoetkoming, omdat de tweede onterechte afwijzing
+> binnen 240 dagen na de eerste onterechte afwijzing heeft
+> plaatsgevonden waardoor beide verzoeken worden beschouwd als één
+> verzoek.*
+
+De leden van de fracties van de PVV, VVD en het CDA vragen waarom niet
+in eerste instantie is gekozen voor een wettelijke uitzondering voor het
+buiten de boedel houden van de forfaitaire tegemoetkoming en of een
+definitieve keuze is gemaakt voor het buiten de boedel houden van de toe
+te kennen tegemoetkomingen.
+
+In het algemeen deel van de memorie van toelichting is toegelicht dat
+een tegemoetkoming, zoals de forfaitaire tegemoetkoming, in beginsel in
+de boedel valt en dus zal worden ingezet voor de voldoening van
+schulden. Hetzelfde geldt voor vergoedingen van (im)materiële schade.
+Het uitgangspunt is dat de burger al zijn vermogen en te verwachten
+baten inzet voor de voldoening van zijn schulden. Het buiten de boedel
+houden van een aanspraak op een bedrag als de forfaitaire tegemoetkoming
+kan als hiervoor een wettelijke grondslag bestaat. Het kabinet heeft een
+wettelijke uitzondering voor het buiten de boedel houden van de toe te
+kennen tegemoetkomingen onderzocht. Uiteindelijk is besloten om niet te
+voorzien in een wettelijke grondslag daarvoor. Bij een wettelijke
+grondslag zou het uitgangspunt dat de burger al zijn vermogen en te
+verwachten baten inzet voor de voldoening van zijn schulden -- in ieder
+geval bij deze tegemoetkomingsregeling -- worden losgelaten en zou dus
+een ander beleid gaan gelden dan nu in beginsel heeft te gelden bij
+schadevergoedingen. Een wettelijke grondslag in dezen zou ook
+(aanzienlijke) gevolgen voor de schuldeisers hebben. Door het buiten de
+boedel houden van de aanspraken op een forfaitaire tegemoetkoming en op
+het bedrag gelijk aan de betaalde en verrekende bedragen, wordt de
+afloscapaciteit minder en daarmee ook het aanbod dat aan schuldeisers
+kan worden gedaan. Daarnaast heeft een wettelijke uitzondering waarbij
+de aanspraak op de tegemoetkoming wordt uitgezonderd ook gevolgen voor
+de getroffen burgers en de uitvoerbaarheid van de
+tegemoetkomingsregeling. Om de getroffen burgers daadwerkelijk te laten
+profiteren van deze wettelijke uitzondering kan de Belastingdienst de
+tegemoetkoming bij een dergelijke wettelijke uitzondering pas uitkeren
+als een schuldregeling is afgerond of duidelijk is dat een
+schuldregeling niet tot stand zal komen. Dat betekent dat de
+Belastingdienst na inwerkingtreding van de wet niet op korte termijn de
+tegemoetkomingen kan uitkeren. Indien de burger wenst dat de
+Belastingdienst de tegemoetkoming (op korte termijn) uitkeert, omdat er
+bijvoorbeeld geen sprake is van een schuldregeling dan wel
+problematische schulden, dient hij zelf in actie te komen. Deze burger
+zal dan zelf bij de Belastingdienst het verzoek moeten doen tot
+uitkering van de tegemoetkoming. Het voorgaande vraagt doenvermogen en
+staat haaks op het uitgangspunt om de burger zo min mogelijk te belasten
+bij de uitvoering van de tegemoetkomingsregeling.
+
+Voorts wenst het kabinet bij de uitvoering van het tegemoetkomingsbeleid
+zo veel mogelijk aan te sluiten bij staand beleid en reguliere
+MSNP-trajecten. Gelet daarop is besloten om aan te sluiten bij de
+bestaande werkwijze ten aanzien van tegemoetkomingen in een
+schuldregeling. Dat betekent dat de schuldhulpverlener bij het berekenen
+van de afloscapaciteit rekening dient te houden met de tegemoetkoming
+die de burger op grond van het onderhavige voorgestelde
+tegemoetkomingsbeleid ontvangt of al heeft ontvangen. Aangezien de
+Belastingdienst een bedrag ter beschikking stelt dat gelijk is aan de
+gehele afloscapaciteit van de burger, zal de Belastingdienst ook de toe
+te kennen tegemoetkomingen meenemen in het bedrag dat beschikbaar wordt
+gesteld voor de pseudo-MSNP. Hierdoor hoeft de burger de tegemoetkoming
+die hij zelf ontvangt niet zelf in te zetten voor de schuldeisers en
+wordt het aanbod voor de schuldeisers niet lager.
+
+De leden van de fracties van de PVV en VVD vragen hoe meerdere
+kwijtscheldingen bij dezelfde burger precies zal gaan, of kwijtschelding
+is begrensd tot een bepaalde periode en hoe burgers hier het overzicht
+in houden.
+
+Kwijtschelding wordt pas verleend als de schulden definitief vaststaan.
+Voorlopige aanslagen en voorlopige terugvorderingsbeschikkingen worden
+derhalve niet kwijtgescholden. De Belastingdienst zal periodiek
+monitoren of de schulden definitief zijn vastgesteld en vervolgens
+eventuele schulden ambtshalve kwijtschelden. De periode waarover deze
+monitoring zal moeten plaatsvinden is begrensd aan de maximale termijnen
+voor de vaststelling van de belasting- en toeslagschulden. Voor de
+uitvoering van dit proces wordt aangesloten bij de werkwijze door de
+UHT, waarbij een vergelijkbaar proces is dan wel wordt toegepast.
+
+Burgers zullen één beschikking met de dan kwijtgescholden
+belastingschulden ontvangen en één beschikking met de dan
+kwijtgescholden toeslagschulden. Als op een later moment kwijtschelding
+plaatsvindt van later vastgestelde belasting- en toeslagschulden, wordt
+de burger hierover geïnformeerd door middel van een nieuwe beschikking
+waarop de additionele kwijtgescholden schulden vermeld staan. Het
+grootste deel van de kwijtgescholden schulden zal op de eerste
+beschikking staan, maar het is dus mogelijk dat hierna één of meerdere
+beschikkingen volgen. Naast de beschikkingen zal de burger door middel
+van een online overzicht kunnen zien welke schulden zijn
+kwijtgescholden.
+
+Deze leden vragen ook of het kabinet nog eventuele problemen voorziet
+door het gedifferentieerde tegemoetkomingsbeleid en zo ja, hoe het
+kabinet hiermee om zal gaan.
+
+Het doel van het wetsvoorstel is om burgers tegemoet te komen voor de
+onterechte afwijzing en om vervolgens deze burgers in de situatie te
+brengen waar zij zich in zouden hebben bevonden als de Belastingdienst
+deze fout niet had gemaakt: een schuldenvrije start. Een deel van de
+burgers is na de onterechte afwijzing van de Belastingdienst gelukkig al
+toegelaten tot een MSNP of WSNP, en heeft daarmee al een mogelijkheid
+tot het creëren van een schuldenvrije start gehad. Om burgers die nog
+geen schuldenvrije start hebben gekregen, terwijl ze dit wel zouden
+hebben ontvangen wanneer zij niet onterecht waren afgewezen, een
+schuldenvrije start aan te bieden is gedifferentieerd
+tegemoetkomingsbeleid nodig. De laatstgenoemde groep burgers enkel
+tegemoetkomen door middel van een forfaitaire tegemoetkoming acht het
+kabinet onvoldoende. Er zou dan ten onrechte aan de niet opgeloste
+schuldenproblematiek van deze burgers voorbij worden gegaan.
+
+Als gevolg van het gedifferentieerde tegemoetkomingsbeleid zijn de
+burgers onderverdeeld over vier categorieën. Door te werken met
+verschillende categorieën, waarbij wordt ingespeeld op de vraag of de
+burger wél of geen schuldenvrije start heeft kunnen creëren, wordt het
+risico dat op een later moment het tegemoetkomingsbeleid moet worden
+herzien, laag ingeschat.
+
+Door het voorgestelde tegemoetkomingsbeleid wordt gepoogd iedereen in de
+situatie te brengen dat door het initiële verzoek of kort daarna een
+schuldenvrije start zou kunnen worden gecreëerd.
+
+De leden van de fracties van NSC en de VVD vragen hoe het kabinet het
+risico beoordeelt dat door de voorgestelde vormgeving, waarbij
+individueel onderscheid wordt gemaakt, de conclusie zal worden getrokken
+dat sprake is van een schadevergoeding of nadeelcompensatie en hoe het
+kabinet het risico inschat dat op een later moment het
+tegemoetkomingsbeleid dient te worden uitgebreid of herzien.
+
+Het kabinet benadrukt nogmaals dat het wetsvoorstel betrekking heeft op
+een onverplichte tegemoetkoming. Er is niet vastgesteld dat door de
+onterechte afwijzing van de Belastingdienst onrechtmatig is gehandeld
+jegens de burger en de Belastingdienst hierdoor verplicht is om een
+schadevergoeding uit te betalen. Het kabinet is zich ervan bewust dat
+door de vormgeving van het tegemoetkomingsbeleid door bijvoorbeeld het
+bedrag gelijk aan de betaalde bedragen aan en verrekende bedragen door
+de Belastingdienst en de Dienst Toeslagen, de suggestie kan worden
+gewekt dat het hierbij gaat om een schadevergoeding of
+nadeelcompensatie. Om deze suggestie te voorkomen -- en naar aanleiding
+van het advies van de Afdeling -- is in het wetsvoorstel geëxpliciteerd
+dat het gehele tegemoetkomingsbeleid bestaat uit onverplichte
+tegemoetkomingen en is in de memorie van toelichting uiteengezet waarom
+een tegemoetkoming passend wordt geacht zonder dat hiervoor de
+wettelijke verplichting bestaat.[^9] Voorts is in de memorie van
+toelichting meer aandacht besteed aan de vraag waarom het kabinet bij
+een onverplichte tegemoetkoming daarnaast heeft gekozen voor een
+individuele benadering, om te voorkomen dat de suggestie wordt gewekt
+dat een tegemoetkomingsonderdeel een schadevergoeding of
+nadeelcompensatie is.[^10] Door de voorgaande explicitering verwacht het
+kabinet dat het risico dat de conclusie zal worden getrokken dat sprake
+is van een schadevergoeding of nadeelcompensatie laag is.
+
+Voor de vormgeving van het tegemoetkomingsbeleid is onder meer gesproken
+met getroffen burgers en andere betrokken partijen. Uit deze gesprekken
+is naar voren gekomen dat burgers die na de onterechte afwijzing van de
+Belastingdienst nimmer zijn toegelaten tot een MSNP of WSNP alsnog een
+schuldenvrije start willen creëren. Bij de vormgeving van het
+tegemoetkomingsbeleid is invulling gegeven aan deze wens van de burgers,
+onder meer door de pseudo-MSNP. De tegemoetkomingsonderdelen die zien op
+het alsnog creëren van een schuldenvrije start in combinatie met de
+forfaitaire tegemoetkoming resulteren volgens het kabinet in een
+ruimhartig tegemoetkomingsbeleid waarmee in voldoende mate rekening
+wordt gehouden met de gevolgen van de onterechte afwijzing van de
+Belastingdienst. Het kabinet schat het risico dat op een later moment
+het tegemoetkomingsbeleid moet worden herzien daarom dan ook laag in.
+
+De leden van de fractie van NSC vragen ook of het kabinet voor burgers
+die mogelijk in 2012 of 2013 een onterechte afwijzing van de
+Belastingdienst hebben ontvangen kan erkennen dat ook in die jaren
+fouten zijn gemaakt en hiervoor in algemene zin een excuus wil
+aanbieden.
+
+Het is niet uit te sluiten dat in de jaren 2012 en 2013 ook fouten zijn
+gemaakt bij het beoordelen van MSNP-aanvragen. De Belastingdienst is
+echter niet in staat om individueel vast te stellen of er wel of niet
+sprake was van een onterechte afwijzing van de Belastingdienst en daarom
+kiezen wij niet voor een excuus in algemene zin.
+
+## 3.1 [Vormen van tegemoetkoming]{.underline}
+
+De leden van de fractie van de VVD vragen hoe het kabinet erop
+reflecteert dat door gewekt vertrouwen bij burgers instanties als de
+Tweede Kamer de ruimte wordt ontnomen om nog andere keuzes bij het
+voorgestelde tegemoetkomingsbeleid te maken ondanks een kritisch advies
+van de Afdeling en hoe het kabinet dit had kunnen voorkomen. Deze leden
+vragen verder of het kabinet een andere invulling van het voorgestelde
+tegemoetkomingsbeleid wenselijk zou vinden als gewekt vertrouwen bij de
+burgers geen rol zou hebben gespeeld.
+
+Het kabinet betreurt het dat het idee is ontstaan dat door de gevolgde
+werkwijze nu onder meer uw Kamer de ruimte wordt ontnomen om andere
+keuzes te maken, zeker omdat het kabinet uw Kamer in een vroeg stadium
+actief heeft betrokken bij de uitwerking van het tegemoetkomingsbeleid.
+Vorig jaar februari heeft de Staatssecretaris van Financiën --
+Fiscaliteit en Belastingdienst uw Kamer op de hoogte gesteld van het
+aanbod vanuit de VNG om burgers reguliere schuldhulpverlening te bieden
+op basis van de Wet gemeentelijke schuldhulpverlening. Uw Kamer heeft
+toen kennisgenomen van dit aanbod en uw Kamer is de mogelijkheid geboden
+om met de staatssecretaris in gesprek te gaan. Vervolgens is uw Kamer in
+april 2024 geïnformeerd over de omstandigheid dat het kabinet dit
+sympathieke aanbod vanuit de VNG heeft geaccepteerd.[^11] Dankzij dit
+hulpaanbod kunnen de burgers die zich in schrijnende situaties bevinden
+door de onterechte afwijzing van de Belastingdienst, eerder worden
+geholpen en een schuldenvrije start realiseren. Zonder dit aanbod hadden
+deze burgers naar alle waarschijnlijkheid tot inwerkingtreding van de
+wet in een benarde schuldensituatie gezeten.
+
+Tot nu toe heeft ongeveer 20% van de burgers aangegeven voornemens te
+zijn om contact op te nemen met hun gemeente voor schuldhulpverlening en
+zijn bij ongeveer 5% van deze burgers de voorbereidingen voor een
+schuldregeling in een ver stadium of is een schuldregeling al tot stand
+gekomen. Uit de door de VNG opgehaalde casuïstiek blijkt dat de burgers
+die zich tot nu toe hebben gemeld zich in langdurige schuldsituaties
+bevinden, waarbij in sommige gevallen sprake is geweest van ingrijpende
+gebeurtenissen als een huisuitzetting. De getroffen burgers hebben het
+vertrouwen in de overheid verloren door ingewikkelde communicatie en
+langdurige processen, maar waarderen de hulp die aan hen nu wordt
+geboden. De gemeenten zijn ook blij dat zij nu vooruitlopend op
+inwerkingtreding van een wettelijke grondslag getroffen burgers al hulp
+kunnen aanbieden en kunnen bijdragen aan herstel van het vertrouwen in
+de overheid. Het voorgaande laat zien hoe waardevol het aanbod van de
+VNG is geweest.
+
+Door onder meer het aanbod van de VNG heeft het kabinet wel bij het
+verwerken van het advies van de Afdeling in ogenschouw moeten nemen dat
+burgers mogelijk vertrouwen op bepaalde vormen van tegemoetkomingen en
+er al MSNP-trajecten worden gestart waarbij de veronderstelling is dat
+uiteindelijk de Belastingdienst een bedrag gelijk aan de afloscapaciteit
+van de getroffen burger beschikbaar stelt, omdat dit met deze burgers is
+gecommuniceerd. Het kabinet wenste bij de verwerking van het advies van
+de Afdeling in het wetsvoorstel dat mogelijk gewekte vertrouwen bij de
+getroffen burgers niet te schaden. Los van eventueel gewekt vertrouwen
+bij de burgers, is het kabinet van mening dat het voorgestelde
+tegemoetkomingsbeleid passend en wenselijk is.
+
+De leden van de fractie van de VVD vragen of kwijtschelding betrekking
+heeft op alle belasting- en toeslagschulden die openstaan op het moment
+dat de wet in werking treedt en hoe met eventueel anticiperend gedrag
+wordt omgegaan.
+
+Kwijtschelding ziet op alle belasting- en toeslagschulden die openstaan
+op het moment van inwerkingtreding van de wet. Daarnaast ziet
+kwijtschelding op de belasting- en toeslagschulden die na
+inwerkingtreding van de wet worden geformaliseerd, maar wel betrekking
+hebben op de periode vóór inwerkingtreding van de wet. Burgers worden
+vooruitlopend op inwerkingtreding van de wet niet actief ervan op de
+hoogte gesteld dat hun schulden mogelijk zullen worden kwijtgescholden.
+Daarnaast is thans onzeker per wanneer kwijtschelding zou kunnen
+plaatsvinden, aangezien de datum van inwerkingtreding van de wet niet
+vaststaat. Gelet daarop wordt het risico op anticiperend gedrag laag
+ingeschat.
+
+De leden van de fracties van de VVD en SGP vragen of het kwijtschelden
+van alle belasting- en toeslagschulden die openstaan op het moment dat
+de wet in werking treedt geen rechtsongelijkheid creëert, aangezien dit
+niet gebeurt bij burgers die na de onterechte afwijzing al een MSNP- of
+WSNP-traject hebben doorlopen en of is overwogen om kwijtschelding te
+beperken tot de belasting- en toeslagschulden die deel hebben uitgemaakt
+van het initiële MSNP-verzoek dan wel een ander alternatief waardoor er
+meer rechtsgelijkheid zou zijn.
+
+Door een onterechte afwijzing van het MSNP-verzoek door de
+Belastingdienst is de burger niet in staat gesteld om een schuldenvrije
+start te realiseren. Als de burger wel zou zijn toegelaten, zouden na
+afronding van het MSNP-traject alle dan nog openstaande belasting- en
+toeslagschulden zijn kwijtgescholden. Het is niet wenselijk om terug te
+gaan naar de situatie waarin de burger zich bevond op het moment van de
+onterechte afwijzing van de Belastingdienst en enkel de belasting- en
+toeslagschulden die onderdeel uit hebben gemaakt van het MSNP-verzoek
+kwijt te schelden, omdat een burger dan nog steeds niet schuldenvrij is.
+Gelet daarop is gekozen om alle thans openstaande belasting- en
+toeslagschulden kwijt te schelden. Alleen op deze manier kan een
+schuldenvrije start voor deze burgers worden gerealiseerd. Belangrijk
+hierbij te vermelden is dat ook wanneer de burger in een MSNP- of
+WSNP-traject zou komen, een aanzienlijk deel van deze schulden zou zijn
+kwijtgescholden na afronding van het traject. Bovendien is het
+aannemelijk dat een groot deel van de schulden al op oninbaar staat.
+
+Burgers in categorie II kunnen een schuldenvrije start realiseren als de
+belasting- en toeslagschulden worden kwijtgescholden. Bij burgers in
+categorie IV zal kwijtschelding van de openstaande belasting- en
+toeslagschulden de realisatie van een schuldenvrije start kunnen
+versnellen. Burgers in categorie I hebben reeds een schuldenvrije start
+kunnen creëren. Informatie over de budgettaire consequenties van het
+niet kiezen voor het kwijtschelden van alleen schulden die betrekking
+hebben op de originele aanvraag is niet beschikbaar.
+
+De leden van de fractie van de VVD vragen waarom is gekozen voor een
+aanmeldtermijn van twaalf maanden met betrekking tot de pseudo-MSNP en
+of er genoeg ruimte voor maatwerk is, als een burger bijvoorbeeld
+vanwege persoonlijke omstandigheden na inwerkingtreding van de wet niet
+direct toe is aan opstarten van een MSNP-traject.
+
+Burgers worden al sinds april 2024 gewezen op de mogelijkheid zich te
+melden bij hun gemeente voor schuldhulpverlening vanwege het aanbod van
+de VNG. Bij ruim 400 burgers zijn al meerdere contactpogingen geweest
+door zowel de Belastingdienst als gemeenten. Effectief hebben deze
+burgers dus langer dan twaalf maanden om zich te melden voor een
+pseudo-MSNP. De termijn van twaalf maanden na inwerkingtreding van de
+wet is gebaseerd op eerdere ervaringen in de uitvoering. Deze periode
+geeft ook voldoende tijd om burgers te herinneren aan deze mogelijkheid
+en duidelijkheid voor de uitvoering. Daarnaast wordt het burgers zo
+makkelijk mogelijk gemaakt om zich te melden bij de gemeente voor de
+pseudo-MSNP. Vanaf het moment dat zij zich hebben gemeld, zal de
+schuldhulpverlener alle schulden in kaart brengen en een
+saneringsvoorstel versturen naar de schuldeisers. De Belastingdienst zal
+vervolgens het traject financieren. De burger hoeft dus niet zelf
+achttien maanden maandelijks een bedrag te gaan afdragen, maar zal
+meteen schuldenvrij worden gemaakt indien alle schuldeisers akkoord
+gaan. Zonder aanmeldtermijn zouden burgers vrij baan hebben om schulden
+te maken, omdat zij weten dat de Belastingdienst die schulden
+uiteindelijk via de pseudo-MSNP kan betalen als alle schuldeisers
+akkoord gaan met het saneringsvoorstel. Burgers die zich na twaalf
+maanden bij de Belastingdienst melden zullen op de reeds bestaande
+mogelijkheden voor een schuldenvrije start worden gewezen, zoals een
+regulier MSNP-traject om schuldenvrij te worden.
+
+Verder vragen zij naar de voorwaarden die gelden voor publieke
+schuldeisers om wel of niet in te stemmen met een MSNP-verzoek.
+
+Welke voorwaarden voor een bepaalde publieke schuldeiser gelden is
+afhankelijk van welke voorwaarden omtrent het wel of niet instemmen met
+een MSNP-verzoek is opgenomen in voor deze publieke schuldeiser
+relevante regelgeving en beleid. Gelet daarop is het niet mogelijk om in
+dit kader een uitputtende lijst met voorwaarden te delen. Met betrekking
+tot de Belastingdienst is bijvoorbeeld in de Leidraad Invordering 2008
+(LI 2008) uitgewerkt hoe de Belastingdienst MSNP-verzoeken behandelt. In
+de LI 2008 staat bijvoorbeeld dat de Belastingdienst meewerkt aan een
+MSNP-traject als onder meer een schuldregelingsovereenkomst in de zin
+van de Gedragscode Schuldhulpverlening van de NVVK tot stand is gekomen
+of een overeenkomst tot stand is gekomen die dezelfde strekking heeft
+als die gedragscode en waarbij voor de berekening van de
+aflossingscapaciteit wordt uitgegaan van de door Recofa gepubliceerde
+normen.[^12]
+
+De leden van de fracties van de VVD en het CDA vragen wat er met de
+schulden van de burger gebeurt als er geen (wettelijke) schuldregeling
+tot stand komt dan wel geen beroep kan worden gedaan op de mogelijkheid
+dat de Belastingdienst namens de burger de (resterende) afloscapaciteit
+financiert, in welke mate dit zal voorkomen en hoe dan wordt
+gerealiseerd dat deze burgers kunnen toewerken naar een schuldenvrije
+start.
+
+Met de pseudo-MSNP wordt zo veel als mogelijk aangesloten bij het
+reguliere MSNP-traject. Het enige verschil is dat niet de schuldenaar
+zelf, maar de Belastingdienst namens de burger de afloscapaciteit
+voldoet. Of een MSNP tot stand komt, is afhankelijk van de medewerking
+van de schuldeisers. Op voorhand is geen schatting te maken van het
+aantal burgers bij wie geen pseudo-MSNP tot stand zal komen. De
+schuldhulpverleners zullen hun uiterste best doen om een pseudo-MSNP tot
+stand te brengen. Tot op heden zijn er bij de VNG in het kader van haar
+aanbod nog geen signalen binnengekomen dat schuldregelingen bij burgers
+in categorie II door weigering van schuldeisers (dreigen te) mislukken.
+Als bij een burger in categorie II geen pseudo-MSNP tot stand komt en
+deze burger ook niet wordt toegelaten tot een WSNP, blijft de
+schuldenlast -- vergelijkbaar met een regulier MSNP-traject dat is
+mislukt waarbij de Belastingdienst geen onterechte afwijzing heeft
+verstuurd -- staan en zal de burger op een andere wijze een
+schuldenvrije start moeten creëren. Dit kan bijvoorbeeld door het
+treffen van betalingsregelingen met de schuldeisers waardoor de schulden
+geheel zullen worden voldaan. Als er over het voldoen van de
+afloscapaciteit door de Belastingdienst geen overeenstemming wordt
+bereikt met de schuldeisers van een burger in categorie IV, die zich al
+in een lopend traject bevindt, zal dit betekenen dat deze burger
+gedurende het restant van het MSNP- of WSNP-traject zelf zijn
+afloscapaciteit moet blijven afdragen. In beide situaties is geen rol
+weggelegd voor de Belastingdienst.
+
+In het algemeen deel van de memorie van toelichting is toegelicht waarom
+het overnemen van de schulden de effectiviteit van de voorgestelde
+pseudo-MSNP kan doen afnemen.[^13] Het eventueel niet tot stand komen
+van een pseudo-MSNP of WSNP laat onverlet dat de Belastingdienst
+ambtshalve de openstaande belasting- en toeslagschulden zal
+kwijtschelden. Dit betekent dat als sprake is van openstaande belasting-
+of toeslagschulden, de schuldenlast van burgers in categorie II en IV in
+ieder geval (aanzienlijk) wordt verlaagd.
+
+In dit kader is belangrijk om op te merken dat schuldhulpverleners een
+(relatief gezien) goed aanbod kunnen doen aan de schuldeisers, aangezien
+de openstaande belasting- en toeslagschulden worden kwijtgescholden.
+Vaak zijn de openstaande schulden bij de Belastingdienst en de Dienst
+Toeslagen goed voor de helft van de totale schuldenlast en blijft
+vanwege het dubbele percentage waar de Belastingdienst voor
+belastingschulden aanspraak op maakt weinig over voor de andere
+schuldeisers. Door de ambtshalve kwijtschelding van de openstaande
+belasting- en toeslagschulden kan hetgeen normaliter aan de
+Belastingdienst en de Dienst Toeslagen zou worden aangeboden worden
+verdeeld over de andere schuldeisers. Door het voorgaande in combinatie
+met de omstandigheid dat er bij de VNG (nog) geen signalen zijn
+binnengekomen over het mislukken van schuldregelingen, verwacht het
+kabinet dat de getroffen burgers succesvol een beroep kunnen doen op de
+pseudo-MSNP.
+
+De leden van de fractie van de VVD vragen het bedrag gelijk aan de reeds
+betaalde bedragen aan en de verrekende bedragen door de Belastingdienst
+en de Dienst Toeslagen te verduidelijken door voorbeelden en cijfers.
+
+Burgers in categorie II en IV komen in aanmerking voor de betaling van
+het bedrag gelijk aan de reeds betaalde bedragen aan en de verrekende
+bedragen door de Belastingdienst en de Dienst Toeslagen. Het gaat
+hierbij om betalingen en verrekeningen die hebben plaatsgevonden ná de
+onterechte afwijzing van de Belastingdienst en betrekking hebben op een
+schuld die ziet op de periode voor de onterechte afwijzing of het
+tijdvak dat liep ten tijde van de onterechte afwijzing. Gemiddeld hebben
+burgers in categorie II en categorie IV na de onterechte afwijzing
+€ 8.600 betaald − al dan niet door verrekening − aan de Belastingdienst
+en de Dienst Toeslagen.
+
+*Voorbeeld bij een burger in categorie II:*
+
+*Burger D doet in juni 2014 een MSNP-verzoek. De totale schuldenlast
+bedraagt op dat moment € 50.000, waarvan de schuldenlast bij de
+Belastingdienst € 20.000 bedraagt, bij de Dienst Toeslagen €* *2.000
+bedraagt en bij private schuldeisers € 28.000 bedraagt. In augustus 2014
+wijst de Belastingdienst het MSNP-verzoek onterecht af. In november 2025
+komt een pseudo-MSNP tot stand. In de periode tussen de onterechte
+afwijzing en de pseudo-MSNP heeft burger D € 7.600 afgelost op zijn
+belasting- en toeslagschulden die betrekking hebben op de jaren 2012 en
+2013. Daarnaast heeft de Belastingdienst in 2019 een teruggave van
+€ 1.000 verrekend met een openstaande belastingschuld die betrekking
+heeft op 2011. Burger D heeft een vergelijkbaar bedrag aan private
+schuldeisers betaald, te weten € 8.600. In totaal heeft burger D
+€ 17.200 (€ 8.600 + €8.600) aan al zijn schuldeisers betaald, zonder dat
+deze burger schuldenvrij is geworden. In dit geval is het bedrag gelijk
+aan de reeds betaalde bedragen aan en de verrekende bedragen door de
+Belastingdienst en de Dienst Toeslagen in totaal € 8.600 (€ 7.600 +
+€ 1.000). Als het initiële MSNP-verzoek van burger D was toegewezen zou
+deze burger na 36 maanden betalen* *een schuldenvrije start hebben
+kunnen realiseren.*
+
+*Voorbeeld bij een burger in categorie IV:*
+
+*Burger E doet in maart 2017 een MSNP-verzoek. De totale schuldenlast
+bedraagt op dat moment € 15.000, waarvan de schuldenlast bij de
+Belastingdienst € 10.000 bedraagt. In juli 2017 wijst de Belastingdienst
+het MSNP-verzoek onterecht af. In december 2024 komt een MSNP tot stand.
+Dat MSNP-traject is nog niet afgerond op het moment dat de wet in
+werking is getreden. Deze burger valt daarmee in categorie IV en komt in
+aanmerking voor het bedrag gelijk aan de reeds betaalde bedragen aan en
+de verrekende bedragen door de Belastingdienst en de Dienst Toeslagen.
+In de periode tussen de onterechte afwijzing en het tot stand komen van
+de MSNP heeft burger E € 1.000 afgelost op zijn belastingschulden die
+betrekking hebben op de jaren 2012 tot en met 2015. Bij burger E hebben
+er geen verrekeningen plaatsgevonden met openstaande belastingschulden
+die zien op de jaren tot en met de onterechte afwijzing. In dit geval is
+het bedrag gelijk aan de reeds betaalde bedragen aan en de verrekende
+bedragen door de Belastingdienst en de Dienst Toeslagen € 1.000.*
+
+De leden van de fractie van het CDA vragen of het klopt dat de groep
+mensen dat onterecht is afgewezen voor de MSNP, naast dat voor hen een
+schuldenvrije start wordt gecreëerd, ook een bedrag krijgt uitgekeerd
+gelijk aan de reeds eerder betaalde bedragen aan en verrekende bedragen
+door de Belastingdienst en de Dienst Toeslagen en zo ja hoe dit aansluit
+bij het uitgangspunt van een schuldenvrije start aangezien dit
+tegemoetkomingsonderdeel hier los van staat.
+
+Het kabinet acht het passend deze betalingen en verrekeningen terug te
+betalen aan burgers in categorie II en IV, omdat de betalingen en
+verrekeningen niet hadden plaatsgevonden als (eerder) een MSNP tot stand
+was gekomen. Burgers in categorie II hebben bijvoorbeeld na de
+onterechte afwijzing van de Belastingdienst gemiddeld genomen acht jaar
+lang op hun schulden afgelost, zonder schuldenvrij te raken. Gemiddeld
+hebben deze burgers € 8.600 betaald aan de Belastingdienst en de Dienst
+Toeslagen en waarschijnlijk een vergelijkbaar bedrag aan andere
+schuldeisers.
+
+Gegeven het doel van het wetsvoorstel om de burger in die positie te
+brengen waar deze zich in zou bevinden als de burger wel was toegelaten
+tot een MSNP en dus een schuldenvrije start zou kunnen creëren, wordt
+het passend geacht om deze betalingen en verrekeningen terug te betalen.
+Anders hadden deze getroffen burgers deze jarenlange betalingen niet
+hoeven te verrichten en waren zij wel al schuldenvrij geweest.
+
+Zij vragen verder of het bedrag gelijk aan de betaalde bedragen aan en
+de verrekende bedragen door de Belastingdienst en de Dienst Toeslagen
+ook wordt toegekend aan burgers die jarenlang in de schulden hebben
+gezeten, maar voorafgaand aan inwerkingtreding van de wet al een
+schuldenvrije start hebben gecreëerd en, zo nee, wat een verschillende
+behandeling voor de getroffen burgers rechtvaardigt.
+
+Terugbetaling van deze betalingen en verrekeningen vindt alleen
+toepassing bij burgers in categorie II en IV. Dit zijn de burgers die na
+de onterechte afwijzing van hun MSNP-verzoek door de Belastingdienst
+later niet alsnog zijn toegelaten tot een MSNP of WSNP en ook niet een
+afwijzing conform formeel juridische afwijsgronden op een MSNP-verzoek
+hebben ontvangen (categorie II) en burgers die ten tijde van de
+inwerkingtreding van de wet in een lopend MSNP- of WSNP-traject zitten
+(categorie IV).
+
+Burgers die een MSNP hebben doorlopen (categorie I), komen niet in
+aanmerking voor terugbetaling. Deze burgers hebben -- vaak op korte
+termijn na de onterechte afwijzing van de Belastingdienst -- een
+schuldenvrije start kunnen realiseren. Na het MSNP- of WSNP-traject
+worden de eventuele resterende belasting- en toeslagschulden
+kwijtgescholden, dit in tegenstelling tot burgers in categorie II en IV.
+Burgers in die categorieën kunnen na de onterechte afwijzing van de
+Belastingdienst jarenlang op hun belasting- en toeslagschulden hebben
+afbetaald, zonder schuldenvrij te raken. Hierdoor is geen sprake van een
+vergelijkbare situatie met burgers in categorie II of IV en acht het
+kabinet het gedifferentieerd tegemoetkomingsbeleid passend.
+
+De leden van de fractie van de SGP vragen of het klopt dat ongeacht de
+datum van de onterechte afwijzing de forfaitaire tegemoetkoming voor
+elke burger gelijk is.
+
+De tegemoetkoming ter erkenning van het leed dat is ervaren als gevolg
+van de onterechte afwijzing van de Belastingdienst is inderdaad gelijk
+voor elke burger die een dergelijke afwijzing heeft ontvangen. Daarmee
+wordt tegemoetgekomen voor de fout die door de Belastingdienst is
+gemaakt. De tegemoetkoming bestaat echter voor burgers in de categorieën
+II en IV additioneel uit de pseudo-MSNP, kwijtschelding en het bedrag
+gelijk aan de betaalde bedragen aan en verrekende bedragen door de
+Belastingdienst en de Dienst Toeslagen.
+
+Voorts vragen zij of is overwogen om meer variatie in de forfaitaire
+tegemoetkoming aan te brengen en of met dezelfde forfaitaire
+tegemoetkoming voor elke burger recht wordt gedaan aan de periode tussen
+de onterechte afwijzing en het toekennen van een tegemoetkoming die per
+burger verschillend zal zijn.
+
+Na het advies van de Afdeling is het tegemoetkomingsbeleid aangepast. In
+eerste instantie was voorgesteld om de hoogte van de tegemoetkoming te
+laten afhangen van de periode tussen de onterechte afwijzing van de
+Belastingdienst en de toelating tot MSNP of WSNP, te weten € 500 per zes
+maanden. Deze manier van tegemoetkomen sluit echter niet goed aan bij
+het onverplichte karakter van de tegemoetkomingsregeling en het doel van
+de tegemoetkoming: de erkenning van leed. Gelet daarop acht het kabinet
+een vaste forfaitaire tegemoetkoming per MSNP-verzoek dat is afgewezen
+passend. Voor de eventuele gevolgen van een onterechte afwijzing door de
+Belastingdienst, zoals het niet realiseren van een schuldenvrije start,
+terwijl jarenlang is afbetaald op schulden, zijn andere vormen van
+tegemoetkomingen uitgewerkt zoals de pseudo-MSNP en het kwijtschelden
+van de openstaande belasting- en toeslagschulden. De laatstgenoemde
+tegemoetkomingsonderdelen sluiten aan op het doel om getroffen burgers
+alsnog een oplossing voor hun schuldenproblematiek aan te bieden.
+
+## 3.2 [Categorieën burgers bij het voorgestelde tegemoetkomingsbeleid]{.underline}
+
+## De leden van de fractie van NSC vragen of het kabinet nader kan ingaan op burgers in categorie I en in welke mate hun (financiële) omstandigheden vergelijkbaar zijn met burgers in categorie II en IV.
+
+Beide categorieën hebben te maken gehad met een onterechte afwijzing van
+de Belastingdienst; de (financiële) gevolgen lopen echter uiteen.
+Burgers in categorie II en IV zullen gemiddeld genomen aanzienlijk
+langer in een benarde situatie hebben gezeten -- en nu nog zitten in het
+geval van burgers in categorie II − in vergelijking met burgers in
+categorie I. Burgers in categorie II hebben gemiddeld acht jaar geleden
+een onterechte afwijzing ontvangen en wachten sindsdien nog steeds op
+een oplossing voor hun problematische schulden. Burgers in categorie I
+zijn daarentegen gemiddeld negen maanden na hun onterechte afwijzing
+alsnog toegelaten tot een MSNP of WSNP met als gevolg een schuldenvrije
+start.
+
+## 3.3 [Voorbeeld van tegemoetkoming in casuïstiek]{.underline}
+
+De leden van de fractie van het CDA vragen of het mogelijk is dat een
+burger die een onterechte afwijzing heeft ontvangen en vervolgens een
+afwijzing conform formeel juridische afwijsgronden op een MSNP-verzoek
+heeft ontvangen door omstandigheden die het gevolg zijn van de
+onterechte afwijzing, in categorie III valt en daarmee een schrijnende
+behandeling kan plaatsvinden.
+
+Deze situatie zal zich niet voordoen. Als burgers in categorie III een
+afwijzing conform formeel juridische afwijsgronden hebben ontvangen,
+waren deze redenen ook aanwezig bij de initiële aanvraag van gemiddeld
+vierenhalve maand eerder. Bij deze initiële aanvraag waren deze
+afwijsgronden echter niet de reden voor de afwijzing van de
+Belastingdienst, maar is op een onterechte afwijsgrond afgewezen -- in
+96% van de gevallen vanwege een belastingschuld of toeslagschuld boven
+een door de Belastingdienst gehanteerd normbedrag. Om deze reden komen
+burgers voor de onterechte afwijzing van de Belastingdienst van hun
+originele aanvraag in aanmerking voor de forfaitaire tegemoetkoming.
+
+> Het is mogelijk dat er bij de nieuwe aanvraag die op juiste gronden is
+> afgewezen ook nieuwe juiste afwijsgronden zijn ontstaan, maar die
+> afwijsgronden kunnen niet zijn ontstaan door de onterechte afwijzing
+> van de Belastingdienst. Als een burger na de onterechte afwijzingen
+> bijvoorbeeld nieuwe schulden heeft gemaakt, is dat in beginsel geen
+> terechte afwijsgrond om het nieuwe verzoek af te wijzen.
+
+De leden van de fractie van de VVD vragen aan de hand van welke
+kenmerken een stabilisatieverzoek op dezelfde onterechte afwijsgronden
+is afgewezen en in hoeveel gevallen dit is gebeurd.
+
+Tijdens het onderzoek is gebleken dat de Belastingdienst gedurende een
+bepaalde periode een aantal stabilisatieverzoeken vanuit pragmatische
+overwegingen heeft afgehandeld als een MSNP-verzoek, waardoor op
+dezelfde wijze geautomatiseerd een beoordeling heeft plaatsgevonden en
+mogelijk onterecht is afgewezen. Op basis van de resultaten van het
+huidige onderzoek is de inschatting dat 265 stabilisatieverzoeken als
+MSNP-verzoek zijn behandeld. Zij zijn op vergelijkbare wijze via
+dezelfde weg als een regulier MSNP-verzoek geautomatiseerd afgehandeld.
+Stabilisatieverzoeken die zijn behandeld als stabilisatieverzoek zijn
+dus niet meegenomen.
+
+Voorts vragen zij op basis waarvan is gekozen voor een aanmeldperiode
+van twaalf maanden voor echtgenoten en geregistreerde partners en waarom
+deze aanmeldperiode voldoende is.
+
+De aanmeldtermijn is gebaseerd op eerdere ervaringen in de uitvoering
+van soortgelijke regelingen. Daaruit is gebleken dat het zowel voor
+burgers als de uitvoering een redelijke termijn is. Een aanmeldperiode
+van twaalf maanden geeft burgers voldoende tijd om zich te melden.
+Daarnaast biedt het voor de uitvoering duidelijkheid. De echtgenoten en
+geregistreerde partners komen niet als zelfstandig persoon voor in het
+onderzoek naar de onterechte afwijzingen van de Belastingdienst. Echter,
+de Belastingdienst kan door het onderzoek naar de onterechte afwijzingen
+bij sommige getroffen burgers wel vaststellen dat er sprake is geweest
+van een partner ten tijde van het initiële MSNP-verzoek. Of sprake is
+geweest van een gemeenschap van goederen en een gezamenlijk verzoek is
+niet uit het onderzoek gebleken. Na inwerkingtreding van de wet zullen
+echtgenoten en geregistreerde partners die mogelijk in aanmerking komen
+voor het tegemoetkomingsbeleid per post en telefonisch worden benaderd.
+Indien deze echtgenoten en geregistreerde partners zich niet aanmelden,
+zullen zij gedurende de periode van twaalf maanden nogmaals per brief en
+telefonisch worden aangemoedigd om zich aan te melden voor de
+tegemoetkoming. Gegeven dat zij meermaals worden benaderd gedurende een
+periode van twaalf maanden, wordt een aanmeldperiode van twaalf maanden
+voldoende geacht.
+
+Deze leden vragen verder om hoeveel nabestaanden het gaat bij de
+nabestaandenregeling en wat de uitvoeringskosten voor deze
+nabestaandenregeling zijn.
+
+Uit de uitvoeringstoets volgt dat ongeveer 5% van de burgers die bij
+leven in aanmerking zouden komen voor een forfaitaire tegemoetkoming --
+in totaal volgens het huidige onderzoek dus ongeveer 240 burgers −
+inmiddels zijn overleden. Om hoeveel nabestaanden het gaat is thans niet
+vast te stellen, omdat per burger het aantal nabestaanden kan
+verschillen. Voorts is het niet mogelijk om te specificeren welk exact
+deel van de uitvoeringskosten voor de nabestaandenregeling zijn.
+
+De leden van de fractie van de SGP vragen waarom bij de
+nabestaandenregeling is gekozen om ook aanverwante kinderen in
+aanmerking te laten komen voor de forfaitaire tegemoetkoming.
+
+Het kabinet ziet geen aanleiding om aanverwante kinderen uit te sluiten.
+Bij de nabestaandenregeling wordt niet gekeken naar een verband tussen
+de onterechte afwijzing van de Belastingdienst en het nadeel dat een
+nabestaande hierdoor heeft ondervonden. Bij de nabestaandenregeling
+wordt derhalve ook niet bekeken of de betreffende nabestaande ten tijde
+van de onterechte afwijzing van de Belastingdienst deel uitmaakte van
+het gezin van de getroffen burger. Het doel van de onverplichte
+tegemoetkoming is het erkennen van de fout die gemaakt is door de
+Belastingdienst. De Belastingdienst is daarbij van mening dat ook
+wanneer een getroffen burger is overleden, deze tegemoetkoming nog
+steeds moet worden uitbetaald. Voor de vormgeving van de
+nabestaandenregeling is onder meer gekeken naar de kindregeling in de
+Wht. Het kabinet acht een vergelijkbare regeling in dezen passend.
+
+## 3.4 [Doorwerking voorgesteld tegemoetkomingsbeleid]{.underline}
+
+De leden van de fracties van de VVD en het CDA vragen om een nadere
+onderbouwing voor het niet uitzonderen van de tegemoetkoming bij het
+bepalen van het vermogen in het kader van de inkomstenbelasting en bij
+inkomensafhankelijke regelingen en om een reflectie op dat het vermogen
+van een burger door de tegemoetkoming de vermogensgrenzen bij de
+inkomstenbelasting en inkomensafhankelijke regelingen te boven zal gaan.
+
+De vermogensgrens voor het recht op een bijstandsuitkering ligt in 2024
+aanzienlijk lager dan voor de toekenning van inkomensafhankelijke
+regelingen (zie tabel hieronder). Het heffingsvrije vermogen in 2025
+bedraagt € 57.684. Het overgrote deel van de burgers ontvangt enkel de
+forfaitaire tegemoetkoming. Gegeven de hoogte van deze tegemoetkoming −
+te weten € 500 − is het niet waarschijnlijk dat (enkel) deze
+tegemoetkoming ertoe leidt dat de betreffende vermogensgrenzen worden
+overschreden. Mocht dat wel het gevolg zijn dan beschikt de betreffende
+burger al over (relatief veel) vermogen. Burgers in categorie II en IV
+ontvangen ook een bedrag gelijk aan de betaalde bedragen aan en de
+verrekende bedragen door de Belastingdienst en de Dienst Toeslagen. Dit
+bedrag is gemiddeld € 8.600. Burgers die deze tegemoetkoming ontvangen,
+zijn burgers die nooit meer − of (veel) later in het geval van categorie
+IV − hulp hebben gekregen bij hun schulden en zich veelal (nog) in
+schrijnende situaties bevinden waardoor de kans klein is dat deze
+burgers al over (een aanzienlijk) vermogen beschikken om na ontvangst
+van de tegemoetkoming een vermogen te hebben dat de betreffende
+vermogensgrenzen te boven gaat. Desalniettemin zullen burgers actief
+worden gewezen op de mogelijke risico's. Daarnaast is in dit kader van
+belang dat de tegemoetkoming naar verwachting -- afhankelijk van de
+inwerkingtreding van de wet -- in de zomer of begin najaar van 2025 zal
+worden uitbetaald en daarmee niet vlak voor de peildatum van 1 januari.
+
+> Vermogensgrenzen inkomensafhankelijke regelingen
+
+  -----------------------------------------------------------------------
+  Toeslag                 Alleenstaand            Met partner
+  ----------------------- ----------------------- -----------------------
+  Zorgtoeslag             € 140.213               € 177.301
+
+  Kindgebonden budget     € 140.213               € 177.301
+
+  Huurtoeslag             € 36.952                € 73.904
+
+  Kinderopvangtoeslag     Geen grens              Geen grens
+  -----------------------------------------------------------------------
+
+> Vermogensgrens participatiewet
+
+  -----------------------------------------------------------------------
+                          Alleenstaand            Met partner
+  ----------------------- ----------------------- -----------------------
+  Participatiewet         € 7.575                 € 15.150
+
+  -----------------------------------------------------------------------
+
+# Uitvoering en budgettaire gevolgen
+
+De leden van de fractie van de PVV vragen om het verschil met eerder
+gecommuniceerde aantallen over de onderzoekspopulatie toe te lichten en
+of het denkbaar is dat later blijkt dat meer burgers moeten worden
+tegemoetgekomen dan in het wetsvoorstel gecommuniceerd met mogelijk
+budgettaire gevolgen.
+
+In juni 2022 is gecommuniceerd dat ruim 400.000 brieven van in totaal
+170.000 burgers waren gesignaleerd voor verder onderzoek in het kader
+van een mogelijke onterechte afwijzing van een MSNP-verzoek door de
+Belastingdienst. Verder onderzoek toonde vervolgens aan dat voor ruim
+50.000 burgers mogelijk een MSNP-afwijzing was gevonden in de
+onderzoeksperiode. Voor deze burgers moest nader worden onderzocht of er
+inderdaad sprake was van een afwijzing van de Belastingdienst en of deze
+afwijzing onterecht was. In deze populatie zitten ook burgers die zowel
+in de MSNP- als de UHT-onderzoekspopulatie voorkomen.
+
+Alle afwijzingen moesten handmatig worden beoordeeld voor de
+onderverdeling afwijzing conform formeel juridische afwijsgronden of
+onterechte afwijzing. Het onderzoek naar de MSNP-populatie − exclusief
+UHT-populatie − is reeds afgerond en betreft ongeveer 4.840 burgers. Het
+onderzoek naar de UHT-populatie wordt nu verricht. Bij de huidige stand
+van zaken is de verwachting dat ongeveer 1.500 burgers van de
+UHT-populatie ook in aanmerking komen voor het
+MSNP-tegemoetkomingsbeleid, waardoor in totaal naar schatting 6.300
+burgers een onterechte afwijzing van de Belastingdienst hebben
+ontvangen. Zodra het gehele onderzoek is afgerond zal de Kamer worden
+geïnformeerd over de uiteindelijke aantallen. De kans dat blijkt dat er
+substantieel meer burgers tegemoetgekomen moeten worden dan de burgers
+die nu in onderzoek zijn wordt relatief klein geacht. Mede gezien dat de
+oorspronkelijke onderzoeksgroep groter was en juist kleiner is geworden
+bij het vervolgonderzoek.
+
+De leden van de fractie van de VVD vragen bij welke essentiële projecten
+de capaciteit is verminderd om de benodigde IV-aanpassingen te kunnen
+uitvoeren en wat de gevolgen hiervan zijn.
+
+Het tegemoetkomingsbeleid MSNP is een essentieel project waarbij de
+IV-werkzaamheden van Betalingsregeling Ondernemer (BRO) en
+Betalingsregeling Burger (BRB) naar achteren zijn geschoven in het
+portfolio. Bij BRO wordt gepoogd bedrijven makkelijker en sneller
+uitstel van betaling te kunnen verlenen. Bij BRB kunnen burgers per post
+of telefonisch een regeling aanvragen. Door het tegemoetkomingsbeleid
+MSNP is het IV-werk voor deze trajecten lange tijd uitgesteld.
+
+Voorts vragen deze leden wat de gevolgen voor de Belastingdienst zijn
+als de wet niet op 1 maart 2025 in werking treedt.
+
+Latere inwerkingtreding van de wet betekent dat voor de burgers in
+categorie II en IV mogelijk meer schulden moeten worden kwijtgescholden
+en mogelijk meer betaalde en verrekende bedragen moeten worden
+terugbetaald. Daarnaast vinden er mogelijk verschuivingen plaats van
+categorie IV naar I door afronding van schuldregelingen. Voor zowel het
+bepalen van de mogelijke extra kwijtschelding en terugbetalingen als het
+onderzoeken van verschuivingen in de categorieën, is capaciteit van
+medewerkers nodig.
+
+Na inwerkingtreding van de wet, kunnen burgers in categorie II zich nog
+één jaar lang melden voor pseudo-MSNP en daarnaast hebben (ex-)partners
+van burgers in alle categorieën die niet zelf een onterechte afwijzing
+van de Belastingdienst hebben ontvangen een jaar de tijd om zich te
+melden voor tegemoetkoming. Dit betekent dat voor deze periode voldoende
+capaciteit beschikbaar moet zijn. In de uitvoeringstoets en bij het
+bepalen van de benodigde capaciteit en budget is rekening gehouden met
+inwerkingtreding van de wet op 1 maart 2025. Het grootste gedeelte van
+het budget is daarom begroot voor 2025 en nog een deel voor 2026. Nu de
+wet niet per 1 maart 2025 in werking is getreden, zal dit verschuiven.
+
+De leden van de fracties van de VVD, NSC en het CDA vragen om een
+toelichting ten aanzien van de totale tegemoetkomingskosten.
+
+De totale tegemoetkomingskosten uit het wetsvoorstel zijn berekend op
+basis van het ten tijde van de uitvoeringstoets geschatte aantal
+gedupeerde burgers, te weten 6.300 burgers. De huidige inschatting van
+de totale tegemoetkomingskosten die gedekt worden vanuit de FSV/MSNP
+reservering binnen artikel 1 van de Financiënbegroting − exclusief de
+kosten voor kwijtschelding − is circa € 12 miljoen.
+
+Deze inschatting is gebaseerd op de volgende inschattingen en aannames:
+
+\- De totale kosten voor de forfaitaire tegemoetkoming zijn circa € 4
+miljoen. Hierbij wordt uitgegaan van 1,25 onterechte afwijzingen van de
+Belastingdienst per burger.
+
+\- De totale kosten van het bedrag gelijk aan de betaalde bedragen aan
+en verrekenende bedragen door de Belastingdienst en de Dienst Toeslagen
+zijn circa € 6 miljoen. Het gemiddelde bedrag is hierbij € 8.600, met de
+aanname dat bij de UHT-burgers ten aanzien van deze betalingen en
+verrekening al voor 40% zijn gecompenseerd vanuit de UHT.
+
+\- De totale kosten van de pseudo-MSNP zijn circa € 2 miljoen. Hierbij
+is uitgegaan van een gemiddelde afloscapaciteit € 3.600 per burger en
+van twee aannames: 1) 20% van de burgers in categorie II is reeds
+schuldenvrij en 2) 50% van de burgers in categorie IV heeft hun
+afloscapaciteit voldaan.
+
+De huidige inschatting van de verwachte kwijtscheldingskosten is circa
+€ 11 miljoen, gebaseerd op een gemiddelde kwijtschelding van € 18.800
+per burger en de aanname dat bij UHT-burgers reeds 90% van de schuld
+vanuit de UHT is kwijtgescholden. Hierbij is het relevant om te
+vermelden dat het aannemelijk is dat een groot deel van deze schulden
+reeds oninbaar was en dat deze schulden ook grotendeels zouden zijn
+kwijtgescholden als de getroffen burgers wel in een MSNP-traject waren
+gekomen.
+
+De leden van de fracties van de VVD, SGP, het CDA en NSC vragen naar een
+reflectie op het feit dat bijna veertig procent van de totale kosten van
+de tegemoetkomingsregeling voor de uitvoering van de
+tegemoetkomingsregeling en dat het onderzoek grotendeels handmatig
+plaatsvindt, terwijl voor een aanzienlijke groep burgers al is bepaald
+in welke categorie zij vallen. Verder vragen deze leden hoe de
+uitvoeringskosten bij deze tegemoetkomingsregeling zich verhouden tot
+vergelijkbare regelingen.
+
+De uitvoeringskosten zijn met bijna veertig procent hoog, maar dit is
+inclusief de hoge kosten voor het onderzoek naar onterechte
+MSNP-afwijzingen van de Belastingdienst, dat erg complex en
+arbeidsintensief is. Dit onderzoek is al deels afgerond, maar een
+significant deel van de UHT-overlapdossiers moet nog worden onderzocht.
+Daarnaast is voldoende capaciteit nodig voor het handmatig en
+geautomatiseerd onderzoeken van de betaalde en verrekende bedragen, wat
+ook een complex onderzoek is.
+
+Voorts zijn de totale uitvoeringskosten te verklaren door de standaarden
+die eerder door de Belastingdienst zijn gehanteerd bij het bieden van
+herstel, zoals bij de compensatieregeling Selectie aan de Poort. Dit
+betekent bijvoorbeeld dat er een apart klantvolgsysteem en een apart
+registratiesysteem met database worden gebouwd. Daarnaast wordt voorzien
+in een eigen website waar burgers inzage kunnen krijgen in hun dossier
+inzake de onterechte afwijzing van hun MSNP-verzoek door de
+Belastingdienst. Aangezien de MSNP-populatie aanzienlijk kleiner is dan
+de populatie van de eerdergenoemde compensatieregeling Selectie aan de
+Poort terwijl dezelfde voorzieningen worden ingericht, zijn de relatieve
+uitvoeringskosten per burger voor het bouwen van een persoonlijke
+website hierdoor hoger bij MSNP dan bij Selectie aan de Poort.
+
+Daarnaast speelt de omstandigheid dat wordt ingezet op zo veel mogelijk
+direct contact met de getroffen burgers een belangrijke rol bij de
+hoogte van de totale uitvoeringskosten. Het gaat hierbij onder meer om
+het proactief attenderen van burgers op hun recht op een tegemoetkoming
+en het bespreken van hun problemen dan wel bezwaren. Uit gesprekken met
+getroffen burgers en met de VNG blijkt dat bij veel burgers het
+vertrouwen in de overheid ernstig is geschaad. Direct contact met de
+getroffen burgers -- via post, telefoon en fysiek − is daarom van groot
+belang, maar dit vraagt wel de nodige capaciteit. Deze aanpak -- die in
+vergelijking met vergelijkbare regelingen nog persoonlijker is − gaat
+daarom gepaard met relatief hoge uitvoeringskosten.
+
+De leden van de fractie van de VVD vragen waarom voor de uitvoering van
+het tegemoetkomingsbeleid niet is gekozen voor een (deels) centrale
+voorziening.
+
+Dit zou het proces voor de burger moeilijker kunnen maken dan nodig is.
+Normaliter meldt de burger zich bij zijn woongemeente voor
+schuldhulpverlening. Bij het tegemoetkomingsbeleid is één van de
+uitgangspunten dat wordt aangesloten bij het reguliere MSNP-traject.
+Gelet daarop is niet voorzien in een centrale voorziening. Voorts sluit
+de keuze voor geen centrale voorziening aan op het aanbod van de VNG.
+Burgers in categorie II kunnen thans via hun woongemeente al
+schuldhulpverlening krijgen. Het zou niet wenselijk zijn als na
+inwerkingtreding van de wet de werkwijze moet worden gewijzigd.
+
+De leden van de fractie van NSC vragen of het klopt dat de totale kosten
+van de tegemoetkomingsregeling € 38 miljoen bedragen.
+
+Het klopt dat de totale kosten van de tegemoetkomingsregeling in de
+uitvoeringstoets zijn geraamd op € 38 miljoen. Het bedrag van € 38
+miljoen is opgebouwd uit circa € 12 miljoen aan tegemoetkomingskosten,
+circa € 11 miljoen aan kwijtscheldingskosten en € 15 miljoen aan
+uitvoeringskosten. De kwijtscheldingskosten gaan niet ten koste van het
+begrotingsartikel FSV/MSNP.
+
+De leden van de fractie van het CDA vragen hoe het geraamde bedrag aan
+totale tegemoetkomings- en uitvoeringskosten zo afwijkt van het eerder
+geraamde bedrag van € 115 miljoen en of deze afwijking het effect is van
+dat is gekozen voor een vaste forfaitaire tegemoetkoming van € 500 per
+onterechte afwijzing.
+
+De lagere tegemoetkomingskosten zijn te verklaren, doordat bij de
+eerdere schattingen werd uitgegaan van een veel grotere groep categorie
+II burgers (2.650 burgers) dan nu wordt ingeschat (huidige inschatting
+inclusief UHT-burgers is 650 burgers). Ten tijde van die raming was het
+onderzoek en de categorisering nog niet gestart, waardoor de verdeling
+grotendeels op een eerste inschatting was gebaseerd.
+
+De wijziging van € 500 per zes maanden naar een forfaitair bedrag van
+€ 500 per onterechte afwijzing van de Belastingdienst heeft weinig
+gevolgen voor de totale tegemoetkomingskosten voor de burgers in
+categorie I en categorie III aangezien hun wachttijd gemiddeld
+respectievelijk negen maanden en vierenhalve maand was. Voor burgers in
+categorie II levert deze aanpassing wel een vermindering in de totale
+tegemoetkomingskosten op, omdat zij gemiddeld al acht jaar wachten op
+hulp bij hun schulden.
+
+# Doenvermogen
+
+De leden van de fractie van de VVD vragen op welke manier de
+Belastingdienst partners en kinderen zal benaderen en op welke manier
+deze groepen zal helpen.
+
+De partners en kinderen die nabestaanden zijn van burgers in de
+populatie, zullen ambtshalve de tegemoetkoming ontvangen en hierover
+geïnformeerd worden door middel van een beschikking. Daarnaast zijn er
+de partners van burgers in de populatie die mogelijk ook zelf in
+aanmerking komen voor een tegemoetkoming, omdat zij ten tijde van de
+door de Belastingdienst onterecht afgewezen MSNP-aanvraag geregistreerd
+partner waren van of getrouwd waren met een burger die in de
+MSNP-populatie valt en niet zelf een onterechte afwijzing van de
+Belastingdienst hebben ontvangen. Het gaat hier dus niet om de
+nabestaandenregeling. Deze (ex-)partners die de Belastingdienst tijdens
+het onderzoek naar de onterechte afwijzingen heeft kunnen identificeren
+en die mogelijk in aanmerking zullen komen, zullen na inwerkingtreding
+van de wet per post en telefonisch worden benaderd. Indien zij zich niet
+aanmelden, zullen zij gedurende de periode van twaalf maanden nogmaals
+per brief en telefonisch worden aangemoedigd om zich aan te melden voor
+een tegemoetkoming.
+
+Voorts vragen deze leden aan de hand van welke signalen het
+tegemoetkomingsbeleid eventueel wordt bijgesteld en waarom er geen vaste
+momenten zijn waar wordt gekeken of het beleid moet worden vastgesteld.
+
+Gezien de termijn waarin de Belastingdienst verwacht uitvoering te
+kunnen geven aan de tegemoetkomingsregeling en dat het
+tegemoetkomingsbeleid betrekking heeft op een specifieke situatie, wordt
+niet voorzien in een evaluatiebepaling. Het voorgaande laat onverlet dat
+de Belastingdienst gedurende de uitvoering nauwlettend in de gaten zal
+houden of bijsturing gewenst is. Hierbij zal niet worden gewerkt met
+vaste momenten om te kijken of bijsturing gewenst is. Als zou worden
+gekozen voor vaste momenten, bijvoorbeeld elke vier maanden, bestaat het
+risico dat bijsturing te laat kan zijn aangezien de Belastingdienst na
+inwerkingtreding van de wet spoedig tegemoetkomingen ambtshalve wil gaan
+toekennen. In de communicatie met burgers wordt iteratief gewerkt,
+waardoor alle signalen die worden ontvangen meteen verwerkt worden.
+Mocht er een eenduidig signaal naar voren komen, dan zal de communicatie
+of het uitvoeringsbeleid hierop worden aangepast met als doel een hogere
+respons te halen.
+
+Deze leden vragen daarnaast wat ermee wordt bedoeld dat de
+Belastingdienst naar verwachting het tegemoetkomingsbeleid binnen een
+redelijke termijn zal uitvoeren.
+
+> Het kabinet acht het wenselijk dat de getroffen burgers zo snel
+> mogelijk tegemoet worden gekomen. Voor de uitvoering van het
+> tegemoetkomingsbeleid op korte termijn zijn al voorbereidingen met
+> relevante partijen getroffen, zoals de VNG. Het voornemen is om na
+> inwerkingtreding van de wet binnen drie maanden de onverplichte
+> tegemoetkomingen die ambtshalve worden uitgekeerd, aan de getroffen
+> burger uit te keren. Als burgers in bezwaar gaan, zal drie maanden
+> extra nodig zijn voor de toepassing van het tegemoetkomingsbeleid van
+> deze burgers.
+
+De leden van de fractie van de VVD en NSC vragen of het kabinet de
+effecten van de tegemoetkomingsregeling gaat monitoren en of, en zo ja,
+hoe de Tweede Kamer zal worden geïnformeerd over de uitkomsten hiervan.
+Verder vragen deze leden of de Tweede Kamer kan sturen op een
+invoeringstoets.
+
+Voor toekomstige tegemoetkomingsregelingen kunnen de ervaringen met de
+onderhavige tegemoetkomingsregeling waardevol zijn. Het kabinet
+onderschrijft dan ook het belang van het monitoren (van de uitvoering)
+van de tegemoetkomingsregeling. Gelet daarop zal de Belastingdienst dan
+ook (de uitvoering van) de tegemoetkomingsregeling nauwlettend
+monitoren. Er is via de VNG nauw contact met de gemeenten, zodat
+signalen van schuldhulpverleners snel verwerkt kunnen worden.
+
+In dit kader zou een invoeringstoets behulpzaam kunnen zijn. Bij een
+invoeringstoets wordt gekeken naar hoe een maatregel uitpakt voor de
+doelgroep en voor de uitvoering. Elk jaar selecteert de Belastingdienst
+een aantal maatregelen die worden onderworpen aan een invoeringstoets,
+waarbij veel aandacht is voor compensatie- en tegemoetkomingsregelingen.
+De Belastingdienst onderstreept het belang van het tijdig bijsturen bij
+dergelijke regelingen. Uw Kamer zou het belang van het doen van een
+invoeringstoets in dezen kunnen onderstrepen door hier een motie over
+aan te nemen. Het kabinet zal uw Kamer, net als bij de
+compensatieregeling Selectie aan de Poort, informeren over de voortgang
+van de uitvoering van de tegemoetkomingsregeling. Dit kan bijvoorbeeld
+plaatsvinden via de stand van zakenbrief Belastingdienst.
+
+Tevens vragen deze leden om een inschatting wanneer de wet in werking
+zal treden.
+
+Inwerkingtreding van de maatregelen is afhankelijk van de behandeling
+van het wetsvoorstel in uw Kamer en vervolgens de behandeling in de
+Eerste Kamer. Vanuit de uitvoering staat alles gereed om op korte
+termijn, in ieder geval per 1 april 2025, het wetsvoorstel uit te
+voeren. Gelet op het tijdsverloop tot op heden, waarbij uw Kamer de
+behandeling van het wetsvoorstel voortvarend heeft opgepakt, lijkt het
+voor regelgeving vaste verandermoment 1 juli 2025 realistisch.
+
+# Advies en consultatie
+
+De leden van de fractie van de VVD vragen hoe de internetconsultatie van
+twee weken zich verhoudt tot de veel langere tijd die nodig is geweest
+om het tegemoetkomingsbeleid en wetsvoorstel uit te werken.
+
+Het wetsvoorstel maakte deel uit van het Belastingplan 2025, met een
+wetgevingsproces dat veel korte deadlines kent en dat normaal gesproken
+niet wordt geconsulteerd op internetconsultatie.nl. Omdat het kabinet
+het wel van belang achtte om de maatregelen in het wetsvoorstel te
+consulteren, is in het krappe tijdpad van het Belastingplan 2025 de
+termijn van twee weken gevonden voor consultatie. Het advies van de
+Afdeling heeft ertoe geleid dat het kabinet heeft besloten het
+wetsvoorstel uit het Belastingplan 2025 te halen en als zelfstandig
+wetsvoorstel − zonder dit aangepaste wetsvoorstel opnieuw te consulteren
+− bij uw Kamer in te dienen nadat dit was aangepast.
+
+Daarnaast vragen deze leden hoe het kabinet het risico op niet-gebruik
+van de tegemoetkomingsonderdelen, met name de pseudo-MSNP, inschat nu
+niet wettelijk is voorzien in een grondslag voor gegevensdeling met
+gemeenten en of het kabinet het standpunt deelt dat gegevensdeling een
+oplossing kan zijn voor het voorkomen van niet-gebruik.
+
+Het risico op niet-gebruik kan alleen betrekking hebben op het
+schuldenvrij maken bij overige schuldeisers − niet zijnde de
+Belastingdienst of de Dienst Toeslagen − van burgers in categorie II en
+IV (ongeveer 12% van alle onterecht afgewezen burgers). De forfaitaire
+tegemoetkoming, terugbetaling van betaalde en verrekende schulden en de
+kwijtschelding van schulden bij de Belastingdienst en de Dienst
+Toeslagen zullen namelijk ambtshalve plaatsvinden. Alleen het ambtshalve
+toepassen van de pseudo-MSNP is niet mogelijk. Burgers in categorie IV
+die geen gebruik maken van deze mogelijkheid zullen dan zelf de
+resterende afloscapaciteit moeten voldoen om een schuldenvrije start te
+realiseren.
+
+Het kabinet hoopt dat alle burgers in categorie II -- voor zover sprake
+is van problematische schulden − en IV gebruik maken van de mogelijkheid
+dat de Belastingdienst namens de burger de (resterende) afloscapaciteit
+voldoet. Bij de uitwerking van het tegemoetkomingsbeleid is onderzocht
+of een wettelijke grondslag voor gegevensdeling in dezen passend en
+wenselijk is. In het algemeen deel van de memorie van toelichting is
+toegelicht waarom uiteindelijk niet is gekozen voor een wettelijke
+grondslag voor gegevensdeling.[^14] Een wettelijke grondslag zou
+mogelijk kunnen bijdragen aan het bereiken van de getroffen burgers en
+daarmee wellicht ook eventueel niet-gebruik kunnen voorkomen. Of het
+delen van gegevens met gemeenten na een wettelijke grondslag
+daadwerkelijk leidt tot minder of geen niet-gebruik is onzeker, zeker
+als hierbij in ogenschouw wordt genomen welke stappen de Belastingdienst
+zelf al zet om de getroffen burgers te bereiken en veel
+tegemoetkomingsonderdelen ambtshalve worden toegepast. De
+Belastingdienst gaat op meerdere manieren contact proberen te leggen met
+de getroffen burgers. Mocht een getroffen burger niet ingaan op de
+contactverzoeken en brieven van de Belastingdienst, dan is het de vraag
+of die burger vervolgens wel ingaat op een contactverzoek van een
+gemeente. De NVVK heeft bij de internetconsulatie zelf ook opgemerkt dat
+een getroffen burger om welke reden dan ook geen schuldhulpverlening via
+een bepaalde gemeente wil -- bijvoorbeeld door eerdere ervaringen met
+schuldhulpverlening via die gemeente − en het dus twijfelachtig is of
+een burger wel ingaat op contactverzoeken vanuit een gemeente.[^15] De
+hiervoor genoemde onzekerheid afgezet tegen de (juridische) bezwaren
+voor een wettelijke grondslag, maakt dat volgens het kabinet een
+wettelijke grondslag in dezen niet wenselijk en passend is.
+
+Voorts acht het kabinet een grondslag voor gegevensdeling niet
+noodzakelijk nu het risico op niet-gebruik niet hoog wordt ingeschat.
+Het risico op niet-gebruik wordt niet hoog ingeschat, omdat wordt
+ingezet op zo veel mogelijk direct contact met de getroffen burgers en
+de Belastingdienst de getroffen burgers zo veel mogelijk ambtshalve
+tegemoet gaat komen. Alleen bij de pseudo-MSNP is ambtshalve
+tegemoetkoming onmogelijk. Voor het starten van een pseudo-MSNP is wél
+een handelingsactie van de burger vereist. Mocht gedurende de uitvoering
+van de tegemoetkomingsregeling blijken dat aanpassing van bijvoorbeeld
+de communicatiestrategie nodig is dan wordt hier zo snel mogelijk op
+ingespeeld door onder meer contact op te nemen met betrokken partijen
+als de VNG. Het risico op niet-gebruik wordt op deze wijze gemitigeerd.
+
+> De Staatssecretaris van Financiën
+>
+> T. van Oostenbruggen
+
+[^1]: Kamerstukken II 2024/25, 36675, nr. 4, p. 9.
+
+[^2]: Kamerstukken II 2023/24, 31066 nr. 1376 en kamerstukken II
+    2022/23, 31066, nrs. 1131 en 1231.
+
+[^3]: Kamerstukken II 2024/25, 36675, nr. 3, p. 39--44.
+
+[^4]: Het totaal bedraagt meer dan 100% vanwege afronding.
+
+[^5]: Onder grensbedrag wordt verstaan een afwijzing vanwege een
+    belastingschuld of toeslagschuld boven een door de Belastingdienst
+    gehanteerd normbedrag.
+
+[^6]: Categorie I of IV: gegeven dat het nog onduidelijk is wanneer het
+    wetsvoorstel in werking zal treden, is het voor burgers die op dit
+    moment in een lopend MSNP- of WSNP-traject zitten nog niet zeker of
+    dit traject is afgerond bij inwerkingtreding van de wet.
+
+[^7]: Kamerstukken II 2024/25, 36675, nr. 3, p. 12.
+
+[^8]: Zie artikel 4, derde lid, van het wetsvoorstel Wet onverplichte
+    tegemoetkoming onterechte afwijzing buitengerechtelijke
+    schuldregeling.
+
+[^9]: Kamerstukken II 2024/25, 36675, nr. 3, p. 7-8.
+
+[^10]: Kamerstukken II 2024/25, 36675, nr. 3, p. 9.
+
+[^11]: Kamerstukken II 2023/24, 31066 nr. 1376.
+
+[^12]: Artikel 73.5.1. LI 2008.
+
+[^13]: Kamerstukken II 2024/25, 36675, nr. 3, p. 20.
+
+[^14]: Kamerstukken II 2024/25, 36675, nr. 3, p. 41.
+
+[^15]: Kamerstukken II 2024/25, 36675, nr. 3, p. 41.

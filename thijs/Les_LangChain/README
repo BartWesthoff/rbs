@@ -1,0 +1,11 @@
+
+GOOGLE COLAB:
+Download 'files_dump_colab.zip' als je colab gebruikt om LangChain.ipynb te draaien.
+In dat geval, maak een folder in de colab omgeving genaamd 'files' en upload hier alle bestanden uit de .zip in (30 stuks).
+
+
+OVER DE DATA:
+.txt files made from .docx files. (Using pandoc 3.6.4)
+
+.md files made from .pdf files. (Using the LLM, Grok 07-04-2025)
+
